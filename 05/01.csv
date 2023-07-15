@@ -1,0 +1,371 @@
+"astro-ph/0505008","Hugo Martel","Hugo Martel (Universite Laval), Neal J. Evans II, and Paul R. Shapiro
+  (University of Texas)","Fragmentation and Evolution of Molecular Clouds. I: Algorithm and First
+  Results","47 pages, 15 figures (2 grayscale, one color), ApJ Suppl, in press",,"10.1086/500090",,"astro-ph",,"  We present a series of simulations of the fragmentation of a molecular cloud,
+leading to the formation of a cluster of protostellar cores. The purpose of
+these simulations is to address a specific numerical problem called artificial
+fragmentation, that plagues SPH simulations of cloud fragmentation. We argue
+that this is a serious problem that needs to be addressed, and that the only
+reasonable and practical way to address it is to use a relatively new technique
+called particle splitting. Our largest simulation has an effective resolution
+of 256^3 particles (much higher than most previous SPH simulations of cloud
+fragmentation) and results in the formation of a dense cluster containing ~3000
+protostellar cores. It is the first simulation of this kind to properly resolve
+the Jeans mass throughout the entire system, at all times, thus preventing
+artificial fragmentation.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 17:58:42 GMT""},{""version"":""v2"",""created"":""Fri, 2 Dec 2005 20:06:23 GMT""}]","2009-11-11"
+"cond-mat/0505002","George Mias","George I. Mias, S. M. Girvin","Absence of Domain Wall Roughening in a Transverse Field Ising Model with
+  Long-Range Interactions","7 pages, 5 figures, revtex4","Phys. Rev. B 72, 064411 (2005)","10.1103/PhysRevB.72.064411",,"cond-mat.stat-mech",,"  We investigate roughening transitions in the context of transverse-field
+Ising models. As a modification of the transverse Ising model with short range
+interactions, which has been shown to exhibit domain wall roughening, we have
+looked into the possibility of a roughening transition for the case of
+long-range interactions, since such a system is physically realized in the
+insulator LiHoF4. The combination of strong Ising anisotropy and long-range
+forces lead naturally to the formation of domain walls but we find that the
+long-range forces destroy the roughening transition.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 15:30:04 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 2005 04:24:41 GMT""},{""version"":""v3"",""created"":""Mon, 8 Aug 2005 15:13:41 GMT""}]","2007-05-23"
+"cond-mat/0505011","Jason Gallas","Jason A.C. Gallas and Hans J. Herrmann","Spontaneous Emergence of Spatio-Temporal Order in Class 4 Automata","5 pages, 6 color figures, Proceedings Medyfinol 2004, Physica A in
+  print",,"10.1016/j.physa.2005.05.016",,"cond-mat.stat-mech cond-mat.dis-nn",,"  We report surprisingly regular behaviors observed for a class 4 cellular
+automaton, the totalistic rule 20: starting from disordered initial
+configurations the automaton produces patterns which are periodic not only in
+time but also in space. This is the first evidence that different types of
+spatio-temporal order can emerge under specific conditions out of disorder in
+the same discrete rule based algorithm.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 18:22:48 GMT""}]","2009-11-11"
+"cond-mat/0505012","Arkadiusz Wojs","Arkadiusz Wojs, Daniel Wodzinski, John J. Quinn","Pair-distribution functions of correlated composite fermions","submitted to PRB","Phys.Rev. B71 (2005) 245331","10.1103/PhysRevB.71.245331",,"cond-mat.mes-hall",,"  Pair-distribution functions g(r) of Laughlin quasielectrons (composite
+fermions in their second Landau level) are calculated in the fractional quantum
+Hall states at electron filling factors nu_e=4/11 and 3/8. A shoulder in g(r)
+is found, supporting the idea of cluster formation. The intra- and
+inter-cluster contributions to g(r) are identified, largely independent of
+nu_e. The average cluster sizes are estimated; pairs and triplets of
+quasielectrons are suggested at nu_e=4/11 and 3/8, respectively.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 18:42:19 GMT""}]","2009-11-11"
+"cond-mat/0505013","Clemens Foerst J","Clemens J. Foerst, Karlheinz Schwarz, Peter E. Bloechl","Structural and Electronic Properties of the Interface between the High-k
+  oxide LaAlO3 and Si(001)","4 pages, 5 figures","Phys.Rev.Lett 95, 137602 (2005)","10.1103/PhysRevLett.95.137602",,"cond-mat.mtrl-sci",,"  The structural and electronic properties of the LaAlO3/Si(001) interface are
+determined using state-of-the-art electronic structure calculations. The atomic
+structure differs from previous proposals, but is reminiscent of La adsorption
+structures on silicon. A phase diagram of the interface stability is calculated
+as a function of oxygen and Al chemical potentials. We find that an
+electronically saturated interface is obtained only if dopant atoms segregate
+to the interface. These findings raise serious doubts whether LaAlO3 can be
+used as an epitaxial gate dielectric.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 22:43:08 GMT""},{""version"":""v2"",""created"":""Fri, 23 Sep 2005 17:28:44 GMT""}]","2016-08-31"
+"cond-mat/0505014","Peter J. Hirschfeld","L.-L. Wang, P. J. Hirschfeld, and H.-P. Cheng","Ab Initio Calculation of Impurity Effects in Copper Oxide Materials","37 pp. pdf including figures, submitted to Phys. Rev. B","Phys. Rev. B 72, 224516 (2005)","10.1103/PhysRevB.72.224516",,"cond-mat.supr-con",,"  We describe a method for calculating, within density functional theory, the
+electronic structure associated with typical defects which substitute for Cu in
+the CuO2 planes of high-Tc superconducting materials. The focus is primarily on
+Bi2Sr2CaCu2O8, the material on which most STM measurements of impurity
+resonances in the superconducting state have been performed. The magnitudes of
+the effective potentials found for Zn, Ni and vacancies on the in-plane Cu
+sites in this host material are remarkably consistent with phenomenological
+fits of potential scattering models to STM resonance energies. The effective
+potential ranges are quite short, of order 1 A with weak long range tails, in
+contrast to some current models of extended potentials which attempt to fit STM
+data. For the case of Zn and Cu vacancies, the effective potentials are
+strongly repulsive, and states on the impurity site near the Fermi level are
+simply removed. The local density of states (LDOS) just above the impurity is
+nevertheless found to be a maximum in the case of Zn and a local minimum in
+case of the vacancy, in agreement with experiment. The Zn and Cu vacancy
+patterns are explained as due to the long-range tails of the effective impurity
+potential at the sample surface. The case of Ni is richer due to the Ni atom's
+strong hybridization with states near the Fermi level; in particular, the short
+range part of the potential is attractive, and the LDOS is found to vary
+rapidly with distance from the surface and from the impurity site. We propose
+that the current controversy surrounding the observed STM patterns can be
+resolved by properly accounting for the effective impurity potentials and
+wave-functions near the cuprate surface. Other aspects of the impurity states
+for all three species are discussed.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 13:15:31 GMT""}]","2009-11-11"
+"cond-mat/0505015","Nitin Samarth","K. F. Eid, M. B. Stone, O. Maksimov, T. C. Shih, K. C. Ku, W. Fadgen,
+  C. J. Palmstrom, P. Schiffer, N. Samarth","Exchange Biasing of the Ferromagnetic Semiconductor (Ga,Mn)As by MnO","To appear in J. Appl. Phys. (invited paper in Proceedings of the 49th
+  Annual Conference on Magnetism & Magnetic Materials); pdf file only","J. Appl. Phys. 97, art. no. 10D304 (2005)","10.1063/1.1846033",,"cond-mat.mtrl-sci",,"  We provide an overview of progress on the exchange biasing of a ferromagnetic
+semiconductor (Ga1-xMnxAs) by proximity to an antiferromagnetic oxide layer
+(MnO). We present a detailed characterization study of the antiferromagnetic
+layer using Rutherford backscattering spectrometry, x-ray photoelectron
+spectroscopy, transmission electron microscopy, and x-ray reflection. In
+addition, we describe the variation of the exchange and coercive fields with
+temperature and cooling field for multiple samples.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 03:14:01 GMT""}]","2009-11-11"
+"cond-mat/0505016","Nitin Samarth","K. C. Ku, S. H. Chun. W. H. Wang, W. Fadgen, D. A. Issadore, N.
+  Samarth, R. J. Epstein, D. D. Awschalom","Fabrication and Characterization of Modulation-Doped ZnSe/(Zn,Cd)Se
+  (110) Quantum Wells: A New System for Spin Coherence Studies","To appear in Journal of Superconductivity (Proceedings of 3rd
+  Conference on Physics and Applications of Spin-dependent Phenomena in
+  Semiconductors)",,"10.1007/s10948-005-3356-9",,"cond-mat.mtrl-sci",,"  We describe the growth of modulation-doped ZnSe/(Zn,Cd)Se quantum wells on
+(110) GaAs substrates. Unlike the well-known protocol for the epitaxy of
+ZnSe-based quantum structures on (001) GaAs, we find that the fabrication of
+quantum well structures on (110) GaAs requires significantly different growth
+conditions and sample architecture. We use magnetotransport measurements to
+confirm the formation of a two-dimensional electron gas in these samples, and
+then measure transverse electron spin relaxation times using time-resolved
+Faraday rotation. In contrast to expectations based upon known spin relaxation
+mechanisms, we find surprisingly little difference between the spin lifetimes
+in these (110)-oriented samples in comparison with (100)-oriented control
+samples.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 03:39:29 GMT""}]","2009-11-11"
+"cs/0505003","Xiaofei Huang","Xiaofei Huang","A New Kind of Hopfield Networks for Finding Global Optimum","6 pages, accepted by International Joint Conference on Neural
+  Networks 2005",,,,"cs.NE",,"  The Hopfield network has been applied to solve optimization problems over
+decades. However, it still has many limitations in accomplishing this task.
+Most of them are inherited from the optimization algorithms it implements. The
+computation of a Hopfield network, defined by a set of difference equations,
+can easily be trapped into one local optimum or another, sensitive to initial
+conditions, perturbations, and neuron update orders. It doesn't know how long
+it will take to converge, as well as if the final solution is a global optimum,
+or not. In this paper, we present a Hopfield network with a new set of
+difference equations to fix those problems. The difference equations directly
+implement a new powerful optimization algorithm.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 16:13:32 GMT""}]","2007-05-23"
+"cs/0505004","David Lorenz","Sergei Kojarski and David H. Lorenz","Pluggable AOP: Designing Aspect Mechanisms for Third-party Composition",,"(new version) In Proceedings of the 20th Annual ACM SIGPLAN
+  Conference on Object Oriented Programming Systems Languages and Applications
+  (San Diego, CA, USA, October 16 - 20, 2005). OOPSLA '05. ACM Press, New York,
+  NY, 247-263.","10.1145/1094811.1094831",,"cs.SE cs.PL",,"  Studies of Aspect-Oriented Programming (AOP) usually focus on a language in
+which a specific aspect extension is integrated with a base language. Languages
+specified in this manner have a fixed, non-extensible AOP functionality. In
+this paper we consider the more general case of integrating a base language
+with a set of domain specific third-party aspect extensions for that language.
+We present a general mixin-based method for implementing aspect extensions in
+such a way that multiple, independently developed, dynamic aspect extensions
+can be subject to third-party composition and work collaboratively.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 20:49:15 GMT""}]","2016-08-31"
+"gr-qc/0505003","Alikram Aliev","A. N. Aliev","A Slowly Rotating Charged Black Hole in Five Dimensions","Talk given at GR17: 17th International Conference on General
+  Relativity and Gravitation, Dublin, 18-24 Jule,2004 ; Corrected typos, minor
+  changes, new formula added","Mod.Phys.Lett. A21 (2006) 751-758","10.1142/S0217732306019281",,"gr-qc hep-th",,"  Black hole solutions in higher dimensional Einstein and Einstein-Maxwell
+gravity have been discussed by Tangherlini as well as Myers and Perry a long
+time ago. These solutions are the generalizations of the familiar
+Schwarzschild, Reissner-Nordstrom and Kerr solutions of four-dimensional
+general relativity. However, higher dimensional generalization of the
+Kerr-Newman solution in four dimensions has not been found yet. As a first step
+in this direction I shall report on a new solution of the Einstein-Maxwell
+system of equations that describes an electrically charged and slowly rotating
+black hole in five dimensions.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 19:51:40 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 2005 06:17:03 GMT""},{""version"":""v3"",""created"":""Tue, 31 May 2005 16:20:30 GMT""}]","2009-11-11"
+"gr-qc/0505004","Masaru Siino","Masaru Siino","Topology of event horizon in axially symmetric spacetime: Classification
+  of Maxwell set with symmetry","27pages, 5 figures",,,,"gr-qc",,"  The crease set of an event horizon is studied in a spacetime with discrete or
+continuous symmetry. It determines possible topologies on spatial sections of
+an event horizon. We thereby investigate the classification of stable
+topological structure of the crease sets in a spacetime with any symmetry. In
+practice, we show the classification of the crease set in axially symmetric
+spacetime. By that we realize the topological structure of axially symmetric
+event horizons. We will finc that many new topological structures become stable
+which is not stable without symmetry.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 09:30:22 GMT""}]","2007-05-23"
+"gr-qc/0505005","Gregory L. Comer","G. L. Comer","Superfluid Analog of the Davies-Unruh Effect","The work presented here is unpublished, and not otherwise available.
+  The original preprint is of some historic interest: it was one of the
+  earliest articles in the modern, post-1990 revival of ``analog models'' for
+  curved spacetime",,,,"gr-qc cond-mat.other",,"  We produce an analog of the Davies-Unruh effect for superfluid helium four.
+There are two temperatures which result--one is associated with ordinary, or
+first, sound and the other with second sound.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 13:45:24 GMT""}]","2007-05-23"
+"hep-ph/0505009","Yoshiaki Umeda","Guey-Lin Lin and Yoshiaki Umeda","The matter effects to neutrino oscillations \nu_\mu \to \nu_e, \nu_\mu
+  at very long baselines and the neutrino mixing angles \theta_13 and \theta_23","10 pages including 5 figures",,,,"hep-ph",,"  We study the matter effects to neutrino oscillations \nu_\mu \to \nu_e and
+\nu_\mu \to \nu_\mu at very long baselines. It has been observed that, for a
+very long baseline L~10000 km, the resonance peak for the \nu_\mu \to \nu_e
+oscillation and the local minimum of the \nu_\mu survival probability occurs at
+similar energies. With a good knowledge on the absolute value of \Delta
+m_{31}^2, measurements of the above oscillation probabilities, P_{\mu e} and
+P_{\mu\mu}, can be performed with the neutrino energy tuned to the resonance
+peak of the \nu_\mu \to \nu_e oscillations. We show that the variations of CP
+violating phase and the solar neutrino mixing parameters have negligible
+effects on P_{\mu e} and P_{\mu\mu} for such a long baseline. Hence P_{\mu e}
+and P_{\mu\mu} together determine the mixing angles \theta_{13} and
+\theta_{23}. Around the resonance peak for \nu_\mu \to \nu_e oscillations, the
+dependencies of P_{\mu e} and P_{\mu\mu} on the above mixing angles are worked
+out in detail, and the implications of such dependencies are discussed.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 19:42:01 GMT""}]","2007-05-23"
+"hep-ph/0505010","Yue-Liang Wu","Yue-Liang Wu","Stability of Proton and Maximally Symmetric Minimal Unification Model
+  for Basic Forces and Building Blocks of Matter","11 pages, revtex, no figures, published version with references added","Sci.ChinaG50:303-310,2007","10.1360/142005",,"hep-ph",,"  With the hypothesis that all independent degrees of freedom of basic building
+blocks should be treated equally on the same footing and correlated by a
+possible maximal symmetry, we arrive at an 4-dimensional space-time unification
+model. In this model the basic building blocks are Majorana fermions in the
+spinor representation of 14-dimensional quantum space-time with a gauge
+symmetry $G = SO(1,3)\times SU(32)\times U(1)_A \times SU(3)_F$. The model
+leads to new physics including mirror particles of the standard model. It
+enables us to issue some fundamental questions that include: why our living
+space-time is 4-dimensional, why parity is not conserved in our world, how is
+the stability of proton, what is the origin of CP violation and what can be the
+dark matter.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 09:07:30 GMT""},{""version"":""v2"",""created"":""Fri, 22 Jul 2005 08:25:48 GMT""},{""version"":""v3"",""created"":""Wed, 17 Jan 2007 04:38:58 GMT""}]","2008-11-26"
+"hep-th/0505006","Jean Michel Maillet","N. Kitanine, J. M. Maillet, N. A. Slavnov, V. Terras","On the algebraic Bethe Ansatz approach to the correlation functions of
+  the XXZ spin-1/2 Heisenberg chain","35 pages, review article",,,,"hep-th",,"  We present a review of the method we have elaborated to compute the
+correlation functions of the XXZ spin-1/2 Heisenberg chain. This method is
+based on the resolution of the quantum inverse scattering problem in the
+algebraic Bethe Ansatz framework, and leads to a multiple integral
+representation of the dynamical correlation functions. We describe in
+particular some recent advances concerning the two-point functions: in the
+finite chain, they can be expressed in terms of a single multiple integral.
+Such a formula provides a direct analytic connection between the previously
+obtained multiple integral representations and the form factor expansions for
+the correlation functions.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 22:41:05 GMT""}]","2007-05-23"
+"hep-th/0505007","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","Lagrangian quantum field theory in momentum picture. III. Free vector
+  fields","68 LaTeX pages. The packages AMS-LaTeX and amsfonts are required.
+  This paper is a continuation of the e-print E-prints No. hep-th/0402006 and
+  No. hep-th/0405008. For related papers, visit the ""publication"" pages at
+  http://theo.inrne.bas.bg/~bozho/",,,,"hep-th math-ph math.MP quant-ph",,"  Free vector fields, satisfying the Lorenz condition, are investigated in
+details in the momentum picture of motion in Lagrangian quantum field theory.
+The field equations are equivalently written in terms of creation and
+annihilation operators and on their base the commutation relations are derived.
+Some problems concerning the vacuum and state vectors of free vector field are
+discussed. Special attention is paid to peculiarities of the massless case; in
+particular, the electromagnetic field is explored. Several Lagrangians,
+describing free vector fields, are considered and the basic consequences of
+them are pointed and compared.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 05:25:15 GMT""}]","2007-05-23"
+"hep-th/0505008","Pravina Borhade","Pravina Borhade, P. Ramadevi","SO(N) Reformulated Link Invariants from Topological Strings","1+34 pages, LaTeX","Nucl.Phys. B727 (2005) 471-498","10.1016/j.nuclphysb.2005.08.027",,"hep-th",,"  Large N duality conjecture between U(N) Chern-Simons gauge theory on $S^3$
+and A-model topological string theory on the resolved conifold was verified at
+the level of partition function and Wilson loop observables. As a consequence,
+the conjectured form for the expectation value of the topological operators in
+A-model string theory led to a reformulation of link invariants in U(N)
+Chern-Simons theory giving new polynomial invariants whose integer coefficients
+could be given a topological meaning. We show that the A-model topological
+operator involving SO(N) holonomy leads to a reformulation of link invariants
+in SO(N) Chern-Simons theory. Surprisingly, the SO(N) reformulated invariants
+also has a similar form with integer coefficients. The topological meaning of
+the integer coefficients needs to be explored from the duality conjecture
+relating SO(N) Chern-Simons theory to A-model closed string theory on
+orientifold of the resolved conifold background.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 10:07:05 GMT""}]","2009-11-11"
+"math/0505005","Hadi Salmasian","Hadi Salmasian","Isolatedness of the minimal representation and minimal decay of
+  exceptional groups",,,,,"math.RT",,"  Using a new definition of rank for representations of semisimple groups sharp
+results are proved for the decay of matrix coefficients of unitary
+representations of two types of non-split $p$-adic simple algebraic groups of
+exceptional type. These sharp bounds are achieved by minimal representations.
+It is also shown that in one of the cases considered, the minimal
+representation is isolated in the unitary dual.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 16:44:31 GMT""}]","2007-05-23"
+"math/0505006","Reuven Segev","Ronen Peretz and Reuven Segev","Bounds on the Trace Mappings of LD-Fields","22 pages",,,,"math.AP math-ph math.MP",,"  Bounds on the trace mappings defined on the Sobolev space W^{1,1}(Omega) and
+the space $LD(Omega)$ of integrable stains are obtained. Such bounds correspond
+to stress concentration--the ratio between the maximal stress in a body and the
+maximum of the traction applied to its boundary. The analysis leading to the
+bounds may be described in the mechanical context of stress theory and stress
+concentration.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 19:49:39 GMT""}]","2007-05-23"
+"math/0505007","Mikhail G. Katz","Mikhail G. Katz, Mary Schaps, and Uzi Vishne","Logarithmic growth of systole of arithmetic Riemann surfaces along
+  congruence subgroups","25 pages. To appear in Journal of Differential Geometry",,,,"math.DG math.NT math.RA",,"  We apply a study of orders in quaternion algebras, to the differential
+geometry of Riemann surfaces. The least length of a closed geodesic on a
+hyperbolic surface is called its systole, and denoted syspi_1. P. Buser and P.
+Sarnak constructed Riemann surfaces X whose systole behaves logarithmically in
+the genus g(X). The Fuchsian groups in their examples are principal congruence
+subgroups of a fixed arithmetic group with rational trace field. We generalize
+their construction to principal congruence subgroups of arbitrary arithmetic
+surfaces. The key tool is a new trace estimate valid for an arbitrary ideal in
+a quaternion algebra. We obtain a particularly sharp bound for a principal
+congruence tower of Hurwitz surfaces (PCH), namely the 4/3-bound
+syspi_1(X_{\PCH}) > 4/3 \log(g(X_{\PCH})). Similar results are obtained for the
+systole of hyperbolic 3-manifolds, relative to their simplicial volume.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 04:30:53 GMT""},{""version"":""v2"",""created"":""Wed, 7 Feb 2007 09:14:36 GMT""}]","2007-05-23"
+"math/0505008","Bozhidar Zakhariev Iliev","Bozhidar Z. Iliev (Institute for Nuclear Research and Nuclear Energy,
+  Bulgarian Academy of Sciences, Sofia, Bulgaria)","Linear transports along paths in vector bundles. IV. Consistency with
+  bundle metrics","20 LaTeX pages. For related papers, visit the ""publication"" pages at
+  http://theo.inrne.bas.bg/~bozho/","Communication JINR, E5-94-17, Dubna, 1994",,,"math.DG math-ph math.MP",,"  The problem for consistency between linear transports along paths and real
+bundle metrics in real vector bundles is stated. Necessary and/or sufficient
+conditions, as well as conditions for existence, for such consistency are
+derived. All metrics (resp. transports) consistent with a given transport
+(resp. metric) are explicitly obtained. The special case of linear transports,
+generated by derivations of tensor algebras, of vectors is considered.
+Analogous problems are investigated in complex vector bundles endowed with
+Hermitian metrics.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 04:58:36 GMT""}]","2007-05-23"
+"math/0505009","Soren Galatius","Soren Galatius","Mod 2 homology of the stable spin mapping class group",,,,,"math.AT",,"  We compute the mod 2 homology of spin mapping class groups in the stable
+range. In earlier work we computed the stable mod p homology of the oriented
+mapping class group, and the methods and results here are very similar. The
+forgetful map from the spin mapping class group to the oriented mapping class
+groups induces a homology isomorphism for odd p but for p=2 it is far from
+being an isomorphism. We include a general discussion of tangential structures
+on 2-manifolds and their mapping class groups and then specialise to spin
+structures. As in Madsen and Weiss' solution to Mumford's conjecture, the
+stable homology is the homology of the zero space of a certain Thom spectrum.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 06:14:05 GMT""}]","2007-05-23"
+"math/0505011","Jon Aaronson","Jon. Aaronson, Hitoshi Nakada","Exchangeable, Gibbs and equilibrium measures for Markov subshifts","corollary 2.1 added","Ergodic Theory Dynam. Systems 27 (2007), no. 2, 321-339",,,"math.PR math.DS",,"  We study a class of strongly irreducible, multidimensional, topological
+Markov shifts, comparing two notions of ""symmetric measure"": exchangeability
+and the Gibbs (or conformal) property. We show that equilibrium measures for
+such shifts (unique and weak Bernoulli in the one dimensional case) exhibit a
+variety of spectral properties.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 15:33:03 GMT""},{""version"":""v2"",""created"":""Fri, 24 Jun 2005 07:40:24 GMT""},{""version"":""v3"",""created"":""Thu, 8 Sep 2005 11:54:01 GMT""},{""version"":""v4"",""created"":""Mon, 5 Jun 2006 17:05:53 GMT""}]","2010-06-01"
+"nlin/0505002","Liang Feng","Liang Feng, Xiang Jinglin, Chen Shaohua, Shi Jie","Projective Synchronization and Control of Unified Chaotic System","4 pages, 7 figures, LaTeX",,,,"nlin.CD",,"  The problem of projective synchronization(ps) and control are studied in
+modified unified chaotic system which possess partially linearity property. The
+desired ratio factor of corresponding subsystem variable could be obtained by
+state feedback control. Theoretical analysis and numerical simulations are
+provided to illustrate the projective synchronization and the feasibility of
+the proposed control method. The effect on projective synchronization caused by
+channel noise and parameter mismatch are investigated in detail, the results
+showed that parameter mismatch has more effect on projective synchronization
+than channel noise does, which may be applied to chaotic secure communications.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 11:05:13 GMT""}]","2007-05-23"
+"nucl-ex/0505001","M\'at\'e Csan\'ad","M. Csanad (for the PHENIX Collaboration)","Systematics of Identified Hadron Spectra at PHENIX","Proceedings of the 20th Lake Louise Winter Institute, 20-26 February
+  2005. To appear in World Scientific",,"10.1142/9789812774422_0015",,"nucl-ex",,"  Mid-rapidity transverse momentum distributions for $\pi^\pm$, $K^\pm$, p and
+$\pbar$ are measured by the PHENIX experiment at RHIC in Au+Au, d+Au and p+p
+collisions at \ssnn=200GeV up to ~2--4GeV. Also particle ratios of
+$\pi^{-}/\pi^{+}$, $K^{-}/K^{+}$, $\pbar/p$, $p/\pi$ and $\pbar/\pi$ are
+measured, as well as the nuclear modification factor, all as a function of \pt
+and in every of the above collision systems. Finally, the measured p+p and
+Au+Au spectra are compared to the Buda-Lund hydro model.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 06:16:49 GMT""},{""version"":""v2"",""created"":""Thu, 2 Mar 2006 18:57:55 GMT""}]","2016-11-09"
+"nucl-ex/0505002","Itzhak Tserruya","Itzhak Tserruya","Probing dense and hot matter with low-mass dileptons and photons","6 pages, 8 figures, Proceedings of Hard Probes 2004 Conference,
+  Ericeira, November 4-10, 2004. Caption of Figure 2 corrected. To be published
+  in Eur. Phys. J. C. The orginal version is available at www.springerlink.com","Eur.Phys.J.C43:399-405,2005","10.1140/epjc/s2005-02305-y",,"nucl-ex",,"  Results on low-mass dileptons, covering the very broad energy range from the
+BEVALAC up to SPS are reviewed. The emphasis is on the open questions raised by
+the intriguing results obtained so far and the prospects for addressing them in
+the near future with the second generation of experiments, in particular HADES,
+NA60 and PHENIX.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 09:36:56 GMT""},{""version"":""v2"",""created"":""Sun, 26 Jun 2005 09:39:08 GMT""}]","2009-01-07"
+"physics/0505006","Mark Kuzyk","Mark G. Kuzyk","Compact Sum-Over-States Expression without Dipolar Terms for Calculating
+  Nonlinear Susceptibilities","6 pages and 4 figures Paper now in print","Mark G. Kuzyk, Phys. Rev. A, 72, 053819 (2005)","10.1103/PhysRevA.72.053819",,"physics.optics physics.atom-ph",,"  Using sum rules, the dipolar terms can be eliminated from the commonly-used
+sum-over-states (SOS) expression for nonlinear susceptibilities. This new
+dipole-free expression is more compact, converges to the same results as the
+common SOS equation, and is more appropriate for analyzing certain systems such
+as octupolar molecules. The dipole-free theory can be used as a tool for
+analyzing the uncertainties in quantum calculations of susceptibilities, can be
+applied to a broader set of quantum systems in the three-level model where the
+standard SOS expression fails, and more naturally leads to fundamental limits
+of the nonlinear susceptibilities.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 21:39:20 GMT""},{""version"":""v2"",""created"":""Wed, 21 Dec 2005 01:25:21 GMT""}]","2009-11-11"
+"physics/0505007","Akhlesh Lakhtakia","Akhlesh Lakhtakia","Taking nanotechnology to schools",,"Current Science, Vol. 90, No. 1, pp. 37-40 (2006)
+  http://www.ias.ac.in/currsci/jan102006/37.pdf",,,"physics.soc-ph physics.ed-ph",,"  After a primer on nanotechnology and a review of current educational
+practices in secondary schools, the concept of just-in-time education is
+proposed to integrate technosciences and humanities so that both future
+technoscientists and non-technoscientists develop a common understanding,
+possibly even a common language, to deal with social, ethical, legal, and
+political issues that arise from the development of nanotechnology and its
+convergence with other technoscientific developments.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 09:15:54 GMT""},{""version"":""v2"",""created"":""Fri, 6 May 2005 17:11:36 GMT""}]","2007-05-23"
+"quant-ph/0505002","J.L. Garcia-Palacios","J. L. Garcia-Palacios and S. Dattagupta","Spin dynamics in a dissipative environment: from quantal to classical","4 pp., 3 figs., resubmitted to Phys. Rev. Lett. with minor changes","Phys. Rev. Lett. 95, 190401 (2005)","10.1103/PhysRevLett.95.190401",,"quant-ph cond-mat.stat-mech",,"  We address the problem of spin dynamics in the presence of a thermal bath, by
+solving exactly the appropriate quantum master equations with
+continued-fraction methods. The crossover region between the quantum and
+classical domains is studied by increasing the spin value S, and the asymptote
+for the classical absorption spectra is eventually recovered. Along with the
+recognized relevance of the coupling strength, we show the critical role played
+by the structure of the system-environment interaction in the emergence of
+classical phenomenology.
+","[{""version"":""v1"",""created"":""Sat, 30 Apr 2005 18:57:04 GMT""},{""version"":""v2"",""created"":""Sat, 16 Jul 2005 15:33:05 GMT""}]","2007-05-23"
+"quant-ph/0505003","Galina L. Klimchitskaya","F. Chen, U. Mohideen, G. L. Klimchitskaya, V. M. Mostepanenko","Investigation of the Casimir force between metal and semiconductor test
+  bodies","9 pages, 3 figures; minor abbreviations in the text were made;
+  accepted for publication in Phys. Rev. A (Rapid Communications)","Phys. Rev. A, v.72, 020101(R) (2005).","10.1103/PhysRevA.72.020101",,"quant-ph cond-mat.mtrl-sci",,"  The measurement of the Casimir force between a large gold coated sphere and
+single crystal silicon plate is performed with an atomic force microscope. A
+rigorous statistical comparison of data with theory is done, without use of the
+concept of root-mean-square deviation, and excellent agreement is obtained. The
+Casimir force between metal and semiconductor is demonstrated to be
+significantly different than between two similar or dissimilar metals.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 08:41:37 GMT""},{""version"":""v2"",""created"":""Fri, 8 Jul 2005 08:55:34 GMT""}]","2009-11-11"
+"quant-ph/0505004","Giovanni Manfredi","G. Manfredi","How to model quantum plasmas","To be published in the Fields Institute Communications Series.
+  Proceedings of the Workshop on Kinetic Theory, The Fields Institute, Toronto,
+  March 29 - April 2, 2004",,,,"quant-ph",,"  Traditional plasma physics has mainly focused on regimes characterized by
+high temperatures and low densities, for which quantum-mechanical effects have
+virtually no impact. However, recent technological advances (particularly on
+miniaturized semiconductor devices and nanoscale objects) have made it possible
+to envisage practical applications of plasma physics where the quantum nature
+of the particles plays a crucial role. Here, I shall review different
+approaches to the modeling of quantum effects in electrostatic collisionless
+plasmas. The full kinetic model is provided by the Wigner equation, which is
+the quantum analog of the Vlasov equation. The Wigner formalism is particularly
+attractive, as it recasts quantum mechanics in the familiar classical phase
+space, although this comes at the cost of dealing with negative distribution
+functions. Equivalently, the Wigner model can be expressed in terms of $N$
+one-particle Schr{\""o}dinger equations, coupled by Poisson's equation: this is
+the Hartree formalism, which is related to the `multi-stream' approach of
+classical plasma physics. In order to reduce the complexity of the above
+approaches, it is possible to develop a quantum fluid model by taking
+velocity-space moments of the Wigner equation. Finally, certain regimes at
+large excitation energies can be described by semiclassical kinetic models
+(Vlasov-Poisson), provided that the initial ground-state equilibrium is treated
+quantum-mechanically. The above models are validated and compared both in the
+linear and nonlinear regimes.
+","[{""version"":""v1"",""created"":""Sun, 1 May 2005 15:30:27 GMT""}]","2007-05-23"

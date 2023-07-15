@@ -1,0 +1,312 @@
+"astro-ph/0501004","Mihailo Cubrovic","Mihailo Cubrovic","Regimes of Stability and Scaling Relations for the Removal Time in the
+  Asteroid Belt: A Simple Kinetic Model and Numerical Tests","8 pages, 4 figures; to appear in Proceedings of IAU Colloquium 197:
+  Dynamics of Populations of Planetary Systems","Proc. of the IAU Volume 2004 - Issue IAUC197 - January 2005
+  ""Dynamics of Populations of Planetary Systems""","10.1017/S1743921304008671",,"astro-ph",,"  We report on our theoretical and numerical results concerning the transport
+mechanisms in the asteroid belt. We first derive a simple kinetic model of
+chaotic diffusion and show how it gives rise to some simple correlations (but
+not laws) between the removal time (the time for an asteroid to experience a
+qualitative change of dynamical behavior and enter a wide chaotic zone) and the
+Lyapunov time. The correlations are shown to arise in two different regimes,
+characterized by exponential and power-law scalings. We also show how is the
+so-called ""stable chaos"" (exponential regime) related to anomalous diffusion.
+Finally, we check our results numerically and discuss their possible
+applications in analyzing the motion of particular asteroids.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2005 17:53:34 GMT""}]","2009-11-10"
+"astro-ph/0501005","Bryan Johnson","Bryan M. Johnson and Charles F. Gammie","Linear Theory of Thin, Radially-Stratified Disks","28 pages, 1 figure, submitted to the Astrophysical Journal","Astrophys.J. 626 (2005) 978-990","10.1086/430081",,"astro-ph",,"  We consider the nonaxisymmetric linear theory of radially-stratified disks.
+We work in a shearing-sheet-like approximation, where the vertical structure of
+the disk is neglected, and develop equations for the evolution of a plane-wave
+perturbation comoving with the shear flow (a shearing wave, or ``shwave''). We
+calculate a complete solution set for compressive and incompressive
+short-wavelength perturbations in both the stratified and unstratified
+shearing-sheet models. We develop expressions for the late-time asymptotic
+evolution of an individual shwave as well as for the expectation value of the
+energy for an ensemble of shwaves that are initially distributed isotropically
+in k-space. We find that: (i) incompressive, short-wavelength perturbations in
+the unstratified shearing sheet exhibit transient growth and asymptotic decay,
+but the energy of an ensemble of such shwaves is constant with time (consistent
+with Afshordi, Mukhopadhyay & Narayan 2004); (ii) short-wavelength compressive
+shwaves grow asymptotically in the unstratified shearing sheet, as does the
+energy of an ensemble of such shwaves; (iii) incompressive shwaves in the
+stratified shearing sheet have density and azimuthal velocity perturbations
+\delta \Sigma,\delta v_y ~ t^{-Ri} (for |Ri| << 1), where Ri = N_x^2/(q
+\Omega)^2 is the Richardson number, N_x^2 is the square of the radial
+Brunt-Vaisala frequency and q\Omega is the effective shear rate; (iv) the
+energy of an ensemble of incompressive shwaves in the stratified shearing sheet
+behaves asymptotically as Ri t^{1-4Ri} for |Ri| << 1. For Keplerian disks with
+modest radial gradients, |Ri| is expected to be << 1, and there will therefore
+be weak growth in a single shwave for Ri < 0 and near-linear growth in the
+energy of an ensemble of shwaves, independent of the sign of Ri.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2005 23:29:49 GMT""}]","2009-11-10"
+"cond-mat/0501005","Andrey Shiryayev","A. Shiryayev, D. L. Pagan, J. D. Gunton, D. S. Rhen, A. Saxena, T.
+  Lookman","Role of solvent for globular proteins in solution","18 pages, 9 figures",,"10.1063/1.1931655",,"cond-mat.soft",,"  The properties of the solvent affect the behavior of the solution. We propose
+a model that accounts for the contribution of the solvent free energy to the
+free energy of globular proteins in solution. For the case of an attractive
+square well potential, we obtain an exact mapping of the phase diagram of this
+model without solvent to the model that includes the solute-solvent
+contribution. In particular we find for appropriate choices of parameters upper
+critical points, lower critical points and even closed loops with both upper
+and lower critical points, similar to one found before [Macromolecules, 36,
+5845 (2003)]. In the general case of systems whose interactions are not
+attractive square wells, this mapping procedure can be a first approximation to
+understand the phase diagram in the presence of solvent. We also present
+simulation results for both the square well model and a modified Lennard-Jones
+model.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2005 19:20:32 GMT""}]","2009-11-11"
+"cond-mat/0501006","Richard A. Klemm","Marisol Alcantara Ortigoza, Richard A. Klemm, and Talat S. Rahman","Effect of dipolar interactions on the magnetization of a cubic array of
+  nanomagnets","15 pages 14 figures, submitted to Phys. Rev. B","Phys. Rev. B {\bf 72}, 174416 (2005).","10.1103/PhysRevB.72.174416",,"cond-mat.mes-hall cond-mat.stat-mech",,"  We investigated the effect of intermolecular dipolar interactions on a cubic
+3D ensemble of 5X5X4=100 nanomagnets, each with spin $S = 5$. We employed the
+Landau-Lifshitz-Gilbert equation to solve for the magnetization $M(B)$ curves
+for several values of the damping constant $\alpha$, the induction sweep rate,
+the lattice constant $a$, the temperature $T$, and the magnetic anisotropy
+field $H_A$. We find that the smaller the $\alpha$, the stronger the maximum
+induction required to produce hysteresis. The shape of the hysteresis loops
+also depends on the damping constant. We find further that the system
+magnetizes and demagnetizes at decreasing magnetic field strengths with
+decreasing sweep rates, resulting in smaller hysteresis loops. Variations of
+$a$ within realistic values (1.5 nm - 2.5 nm) show that the dipolar interaction
+plays an important role in the magnetic hysteresis by controlling the
+relaxation process. The $T$ dependencies of $\alpha$ and of $M$ are presented
+and discussed with regard to recent experimental data on nanomagnets. $H_A$
+enhances the size of the hysteresis loops for external fields parallel to the
+anisotropy axis, but decreases it for perpendicular external fields. Finally,
+we reproduce and test an $M(B)$ curve for a 2D-system [M. Kayali and W. Saslow,
+Phys. Rev. B {\bf 70}, 174404 (2004)]. We show that its hysteretic behavior is
+only weakly dependent on the shape anisotropy field and the sweep rate, but
+depends sensitively upon the dipolar interactions. Although in 3D systems,
+dipole-dipole interactions generally diminish the hysteresis, in 2D systems,
+they strongly enhance it. For both square 2D and rectangular 3D lattices with
+${\bm B}||(\hat{\bm x}+\hat{\bm y})$, dipole-dipole interactions can cause
+large jumps in the magnetization.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 00:27:57 GMT""},{""version"":""v2"",""created"":""Thu, 15 Sep 2005 16:59:33 GMT""}]","2007-05-23"
+"cond-mat/0501007","Leonid Glazman","L.I. Glazman, M. Pustilnik","Low-temperature transport through a quantum dot","Lectures notes of the Les Houches Summer School 2004","in ""Nanophysics: Coherence and Transport,"" eds. H. Bouchiat et al.
+  (Elsevier, 2005), pp. 427-478",,,"cond-mat.mes-hall",,"  Contents:
+  (1) Model of a lateral quantum dot system
+  (2) Thermally-activated conduction: onset of the Coulomb blockade
+oscillations and Coulomb blockade peaks at low temperature
+  (3) Activationless transport through a blockaded quantum dot: inelastic and
+elastic co-tunneling
+  (4) Kondo regime in transport through a quantum dot: effective low-energy
+Hamiltonian; linear response; weak coupling regime; strong coupling regime;
+beyond linear response; splitting of the Kondo peak in a magnetic field; Kondo
+effect in quantum dots with large spin.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 02:25:52 GMT""},{""version"":""v2"",""created"":""Mon, 10 Oct 2005 13:15:52 GMT""}]","2014-10-13"
+"cond-mat/0501008","Andrew Das Arulsamy","Andrew Das Arulsamy and Marco Fronzi","Length-dependent resistance model for a single-wall Carbon nanotube","Published","Physica E 41 (2008) 74","10.1016/j.physe.2008.06.005",,"cond-mat.other cond-mat.str-el","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  The non-linear length-dependent resistance, $\mathcal{R}(l)$ observed in
+single-wall Carbon nanotubes (SNTs) is explained through the recently proposed
+ionization energy ($E_I$) based Fermi-Dirac statistics ($i$FDS). The length
+here corresponds to the Carbon atoms number ($\mathcal{N}$) along the SNT. It
+is also shown that $\mathcal{R}_y(l_y)$ $<$ $\mathcal{R}_x(l_x)$ is associated
+with $E_I^y$ $<$ $E_I^x$, which can be attributed to different semiconducting
+properties in their respective $y$ and $x$ directions.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 08:47:26 GMT""},{""version"":""v10"",""created"":""Wed, 8 Oct 2008 22:48:36 GMT""},{""version"":""v2"",""created"":""Mon, 4 Apr 2005 00:55:50 GMT""},{""version"":""v3"",""created"":""Tue, 5 Apr 2005 00:37:14 GMT""},{""version"":""v4"",""created"":""Fri, 8 Apr 2005 00:24:03 GMT""},{""version"":""v5"",""created"":""Mon, 18 Apr 2005 00:34:43 GMT""},{""version"":""v6"",""created"":""Thu, 12 May 2005 00:34:17 GMT""},{""version"":""v7"",""created"":""Fri, 13 May 2005 00:19:18 GMT""},{""version"":""v8"",""created"":""Mon, 15 Aug 2005 00:58:55 GMT""},{""version"":""v9"",""created"":""Sun, 20 Apr 2008 02:45:52 GMT""}]","2015-06-24"
+"cond-mat/0501009","Tetsuya Mitsudo","Tetsuya Mitsudo and Hisao Hayakawa","Synchronisation of kinks in the two-lane totally asymmetric simple
+  exclusion process with open boundary conditions","11 pages, 7 figures:adding figure and discussions",,,,"cond-mat.stat-mech cond-mat.soft",,"  We study the motion of kinks in a two-lane model of the totally asymmetric
+simple exclusion process with open boundaries. We analytically study the motion
+of the kinks by a decoupling approximation. In terms of the decoupling
+approximation, we find that the positions of the kinks become
+synchronised,though the difference in the number of particles between lanes
+remains non-zero when the rate of lane change is asymmetric. The validity of
+this result is confirmed for small asymmetric cases through the Monte Carlo
+simulation.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 10:24:09 GMT""},{""version"":""v2"",""created"":""Tue, 4 Jan 2005 10:12:37 GMT""},{""version"":""v3"",""created"":""Sat, 19 Feb 2005 10:06:22 GMT""}]","2007-05-23"
+"cond-mat/0501010","Luciano da Fontoura Costa","Luciano da Fontoura Costa","Sznajd Complex Networks","10 pages, 4 figures",,"10.1142/S0129183105007674",,"cond-mat.dis-nn cond-mat.stat-mech",,"  The Sznajd cellular automata corresponds to one of the simplest and yet most
+interesting models of complex systems. While the traditional two-dimensional
+Sznajd model tends to a consensus state (pro or cons), the assignment of the
+contrary to the dominant opinion to some of its cells during the system
+evolution is known to provide stabilizing feedback implying the overall system
+state to oscillate around null magnetization. The current article presents a
+novel type of geographic complex network model whose connections follow an
+associated feedbacked Sznajd model, i.e. the Sznajd dynamics is run over the
+network edges. Only connections not exceeding a maximum Euclidean distance $D$
+are considered, and any two nodes within such a distance are randomly selected
+and, in case they are connected, all network nodes which are no further than
+$D$ are connected to them. In case they are not connected, all nodes within
+that distance are disconnected from them. Pairs of nodes are then randomly
+selected and assigned to the contrary of the dominant connectivity. The
+topology of the complex networks obtained by such a simple growth scheme, which
+are typically characterized by patches of connected communities, is analyzed
+both at global and individual levels in terms of a set of hierarchical
+measurements introduced recently. A series of interesting properties are
+identified and discussed comparatively to random and scale-free models with the
+same number of nodes and similar connectivity.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 10:43:28 GMT""}]","2009-11-11"
+"cond-mat/0501011","Paul Clegg","P.S.Clegg","X-ray studies of the phases and phase transitions of liquid crystals","12 pages, 7 figures","Acta Cryst. (2005) A61, 112-121",,,"cond-mat.soft",,"  This is a short review of recent x-ray diffraction studies of the phases and
+phase transitions of thermotropic liquid crystals. The areas covered are
+twist-grain-boundary phases, antiferroelectric phases studied with resonant
+x-ray diffraction, and smectic phases within gel structures. In all areas x-ray
+diffraction has played a key role. Nonetheless open questions remain: the
+nature of the smectic-C variant of the twist-grain-boundary phase, the origin
+of antiferroelectric phases, and whether novel Bragg glass states exist for
+smectic-A gel samples.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 14:21:22 GMT""}]","2007-05-23"
+"gr-qc/0501003","Alena Pravdov\'a","V. Pravda, A. Pravdova","WANDs of the Black Ring","9 pages, 3 figures","Gen.Rel.Grav.37:1277-1287,2005","10.1007/s10714-005-0110-3",,"gr-qc hep-th",,"  Necessary conditions for various algebraic types of the Weyl tensor are
+determined. These conditions are then used to find Weyl aligned null directions
+for the black ring solution. It is shown that the black ring solution is
+algebraically special, of type I_i, while locally on the horizon the type is
+II. One exceptional subclass - the Myers-Perry solution - is of type D.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2005 22:56:18 GMT""}]","2008-11-26"
+"hep-ph/0501004","Sergey Troshin","S. M. Troshin, N. E. Tyurin","Chiral quark filtering mechanism of hyperon polarization","16 pages, 3 figures, extended content",,,,"hep-ph",,"  The model combined with unitarity and impact parameter picture provide a
+rather simple mechanism of hyperon polarization generation in collision of
+unpolarized hadrons. We concentrate on a particular problem of
+$\Lambda$-hyperon polarization and derive its linear $x_F$-dependence as well
+as its energy and transverse momentum independence at large $p_\perp$.
+Mechanism responsible for the single--spin asymmetries in pion production is
+also discussed.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 10:16:12 GMT""},{""version"":""v2"",""created"":""Mon, 7 Feb 2005 12:46:29 GMT""},{""version"":""v3"",""created"":""Tue, 31 May 2005 11:52:01 GMT""}]","2007-05-23"
+"hep-ph/0501005","Alexander Andrianov","A. A. Andrianov (1,2), V. A. Andrianov (2)((1) INFN Bologna, (2)
+  St.Petersburg State University)","Quasilocal Quark Models as Effective Theory of Non-perturbative QCD","5 pages, Talk at the International Symposium ""MENU 2004"",
+  29.August-4.September, Beijing,China","Int.J.Mod.Phys. A20 (2005) 1850-1854","10.1142/S0217751X05023475",,"hep-ph nucl-th",,"  We consider the Quasilocal Quark Model of NJL type (QNJLM) as an effective
+theory of non-perturbative QCD including scalar (S), pseudoscalar (P), vector
+(V) and axial-vector (A) four-fermion interaction with derivatives. In the
+presence of a strong attraction in the scalar channel the chiral symmetry is
+spontaneously broken and as a consequence the composite meson states are
+generated in all channels. With the help of Operator Product Expansion the
+appropriate set of Chiral Symmetry Restoration (CSR) Sum Rules in these
+channels are imposed as matching conditions to QCD at intermediate energies.
+The mass spectrum and some decay constants for ground and excited meson states
+are calculated.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 13:45:24 GMT""}]","2009-11-11"
+"hep-th/0501002","Roland E. Allen","Roland E. Allen and Seiichirou Yokoo","Particles and propagators in Lorentz-violating supergravity","6 pages, to be published in Proceedings of the Third Meeting on CPT
+  and Lorentz Symmetry, edited by V. A. Kostelecky (World Scientific)",,"10.1142/9789812702173_0042",,"hep-th",,"  We obtain the propagators for spin 1/2 fermions and sfermions in
+Lorentz-violating supergravity.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2005 19:18:23 GMT""}]","2016-11-03"
+"hep-th/0501003","Roland E. Allen","Roland E. Allen and Seiichirou Yokoo","Sfermions and gauginos in a Lorentz-violating theory","5 pages, to be published in Proceedings of PASCOS'04 (World
+  Scientific)",,"10.1142/9789812701756_0045",,"hep-th",,"  In Lorentz-violating supergravity, sfermions have spin 1/2 and other unusual
+properties. If the dark matter consists of such particles, there is a natural
+explanation for the apparent absence of cusps and other small scale structure:
+The Lorentz-violating dark matter is cold because of the large particle mass,
+but still moves at nearly the speed of light. Although the R-parity of a
+sfermion, gaugino, or gravitino is +1 in the present theory, these particles
+have an ""S-parity'' which implies that the LSP is stable and that they are
+produced in pairs. On the other hand, they can be clearly distinguished from
+the superpartners of standard supersymmetry by their highly unconventional
+properties.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2005 18:54:18 GMT""}]","2015-06-26"
+"math/0501011","Liat Kessler","Yael Karshon, Liat Kessler","Circle and torus actions on equal symplectic blow-ups of CP^2","19 pages","Math. Res. Letters 14 (2007), no. 5, 807-823",,,"math.SG",,"  A manifold obtained by k simultaneous symplectic blow-ups of CP^2 of equal
+sizes epsilon (where the size of CP^1 \subset CP^2 is one) admits an effective
+two dimensional torus action if k <= 3 and admits an effective circle action if
+(k-1)epsilon < 1. We show that these bounds are sharp if 1/epsilon is an
+integer.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 05:10:51 GMT""}]","2011-08-02"
+"math/0501012","Mohammad Sal Moslehian","Mohammad Sal Moslehian","Hyers-Ulam-Rassias Stability of Generalized Derivations","9 pages, minor changes, to appear in Internat. J. Math. Math. Sci","Intern. J. Math. Math. Sci., 2006 (2006), 93942, 1--8","10.1155/IJMMS/2006/93942",,"math.FA",,"  The generalized Hyers--Ulam--Rassias stability of generalized derivations on
+unital Banach algebras into Banach bimodules is established.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 06:40:18 GMT""},{""version"":""v2"",""created"":""Fri, 25 Feb 2005 05:18:12 GMT""},{""version"":""v3"",""created"":""Wed, 5 Apr 2006 11:02:57 GMT""}]","2021-07-23"
+"math/0501013","Mohammad Sal Moslehian","Mohammad Sal Moslehian","Approximate $(\sigma-\tau)$-Contractibility","10 pages","Nonlinear Funct. Anal. Appl, 11 (2006), no. 5, 805-813",,,"math.FA",,"  In this paper, the generalized Hyers--Ulam--Rassias stability of
+$(\sigma-\tau)$-derivations on normed algebras into Banach bimodules is
+established. We introduce the notion of approximate
+$(\sigma-\tau)$-contractibility and prove that a Banach algebra is
+$(\sigma-\tau)$-contractible if and only if it is approximately
+$(\sigma-\tau)$-Contractible.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 07:37:07 GMT""}]","2021-07-23"
+"math/0501014","Rami Atar","Rami Atar, Amarjit Budhiraja","Stability Properties of Constrained Jump-Diffusion Processes",,"Electronic Journal of Probability, Vol. 7, paper 22, p. 1-31
+  (2002)",,,"math.PR",,"  We consider a class of jump-diffusion processes, constrained to a polyhedral
+cone $G\subset\R^n$, where the constraint vector field is constant on each face
+of the boundary. The constraining mechanism corrects for ``attempts'' of the
+process to jump outside the domain. Under Lipschitz continuity of the Skorohod
+map \Gamma, it is known that there is a cone \mathcalC such that the image
+\Gamma\phi of a deterministic linear trajectory \phi remains bounded if and
+only if \dot\phi\in\mathcalC. Denoting the generator of a corresponding
+unconstrained jump-diffusion by \cll, we show that a key condition for the
+process to admit an invariant probability measure is that for x\in G, \cll
+\id(x) belongs to a compact subset of \mathcalC^o.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 07:43:13 GMT""}]","2014-11-18"
+"math/0501015","Mohammad Sal Moslehian","Mohammad Sal Moslehian","Approximately Vanishing of Topological Cohomology Groups","18 pages, minor corrections","J. Math. Anal. Appl. 318 (2006), no.2, 758-771","10.1016/j.jmaa.2005.06.018",,"math.FA",,"  In this paper, we establish the Pexiderized stability of coboundaries and
+cocycles and use them to investigate the Hyers--Ulam stability of some
+functional equations. We prove that for each Banach algebra $A$, Banach
+$A$-bimodule $X$ and positive integer $n, H^n(A,X)=0$ if and only if the $n$-th
+cohomology group approximately vanishes.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 07:59:31 GMT""},{""version"":""v2"",""created"":""Mon, 1 Aug 2005 09:34:48 GMT""}]","2021-07-23"
+"math/0501016","Rami Atar","Rami Atar, Amarjit Budhiraja","Singular control with state constraints on unbounded domain","Published at http://dx.doi.org/10.1214/009117906000000359 in the
+  Annals of Probability (http://www.imstat.org/aop/) by the Institute of
+  Mathematical Statistics (http://www.imstat.org)","Annals of Probability 2006, Vol. 34, No. 5, 1864-1909","10.1214/009117906000000359","IMS-AOP-AOP0152","math.PR",,"  We study a class of stochastic control problems where a cost of the form
+\begin{equation}\mathbb{E}\int_{[0,\infty)}e^{-\beta s}[\ell(X_s)
+ds+h(Y^{\circ}_s) d|Y|_s]\end{equation} is to be minimized over control
+processes $Y$ whose increments take values in a cone $\mathbb{Y}$ of
+$\mathbb{R}^p$, keeping the state process $X=x+B+GY$ in a cone $\mathbb{X}$ of
+$\mathbb{R}^k$, $k\le p$. Here, $x\in\mathbb{X}$, $B$ is a Brownian motion with
+drift $b$ and covariance $\Sigma$, $G$ is a fixed matrix, and $Y^{\circ}$ is
+the Radon--Nikodym derivative $dY/d|Y|$. Let $\mathcal{L}=-(1/2)trace(\Sigma
+D^2)-b\cdot D$ where $D$ denotes the gradient. Solutions to the corresponding
+dynamic programming PDE,
+\begin{equation}[(\mathcal{L}+\beta)f-\ell]\vee\sup_{y\in\mathbb{Y}:|Gy|=1
+}[-Gy\cdot Df-h(y)]=0,\end{equation} on $\mathbb{X}^o$ are considered with a
+polynomial growth condition and are required to be supersolution up to the
+boundary (corresponding to a ``state constraint'' boundary condition on
+$\partial\mathbb{X}$). Under suitable conditions on the problem data, including
+continuity and nonnegativity of $\ell$ and $h$, and polynomial growth of
+$\ell$, our main result is the unique viscosity-sense solvability of the PDE by
+the control problem's value function in appropriate classes of functions. In
+some cases where uniqueness generally fails to hold in the class of functions
+that grow at most polynomially (e.g., when $h=0$), our methods provide
+uniqueness within the class of functions that, in addition, have compact level
+sets. The results are new even in the following special cases: (1) The
+one-dimensional case $k=p=1$, $\mathbb{X}=\mathbb{Y}=\mathbb{R}_+$; (2) The
+first-order case $\Sigma=0$; (3) The case where $\ell$ and $h$ are linear. The
+proofs combine probabilistic arguments and viscosity solution methods. Our
+framework covers a wide range of diffusion control problems that arise from
+queueing networks in heavy traffic.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 08:46:18 GMT""},{""version"":""v2"",""created"":""Thu, 23 Nov 2006 07:08:16 GMT""}]","2007-05-23"
+"math/0501017","Mikhail G. Katz","Mikhail G. Katz and Stephane Sabourau","An optimal systolic inequality for CAT(0) metrics in genus two","14 pages, 1 figure, to appear in Pacific J. Math",,,,"math.DG math.GT math.MG",,"  We prove an optimal systolic inequality for CAT(0) metrics on a genus~2
+surface. We use a Voronoi cell technique, introduced by C.~Bavard in the
+hyperbolic context. The equality is saturated by a flat singular metric in the
+conformal class defined by the smooth completion of the curve y^2=x^5-x. Thus,
+among all CAT(0) metrics, the one with the best systolic ratio is composed of
+six flat regular octagons centered at the Weierstrass points of the Bolza
+surface.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 09:48:04 GMT""},{""version"":""v2"",""created"":""Tue, 11 Apr 2006 09:00:43 GMT""}]","2007-05-23"
+"math/0501018","Rami Atar","Rami Atar, Amarjit Budhiraja and P. Dupuis","On Positive Recurrence of Constrained Diffusion Processes",,"The Annals of Probability, Vol. 29, No. 2, 979-1000 (2001)",,,"math.PR",,"  Let G \subset \R^k be a convex polyhedral cone with vertex at the origin
+given as the intersection of half spaces {G_i, i= 1, ..., N}, where n_i and d_i
+denote the inward normal and direction of constraint associated with G_i,
+respectively. Stability properties of a class of diffusion processes,
+constrained to take values in G, are studied under the assumption that the
+Skorokhod problem defined by the data {(n_i, d_i), i = 1, ..., N} is well posed
+and the Skorokhod map is Lipschitz continuous. Explicit conditions on the drift
+coefficient, b(\cdot), of the diffusion process are given under which the
+constrained process is positive recurrent and has a unique invariant measure.
+Define \C \Df{- \sum_{i=1}^N \alpha_i d_i; \alpha_i \ge 0, i \in \{1, ..., N}}.
+Then the key condition for stability is that there exists \delta \in (0,
+\infty) and a bounded subset A of G such that for all x \in G\backslash A, b(x)
+\in \C and \dist(b(x), \partial \C) \ge \delta, where \partial \C denotes the
+boundary of \C.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 10:05:46 GMT""}]","2007-05-23"
+"math/0501019","Arup Kumar Pal","Partha Sarathi Chakraborty, Arupkumar Pal","On equivariant Dirac operators for $SU_q(2)$","v2: final version, LaTeX2e, 12 pages","Proc. Indian Acad. Sci. (Math. Sci.) 116(2006), No. 4, 531--541",,,"math.QA math.KT math.OA",,"  We explain the notion of minimality for an equivariant spectral triple and
+show that the triple for the quantum SU(2) group constructed by Chakraborty and
+Pal is minimal. We also give a decomposition of the spectral triple constructed
+by Dabrowski et al in terms of this minimal triple.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 11:59:03 GMT""},{""version"":""v2"",""created"":""Wed, 24 Jan 2007 17:55:46 GMT""}]","2007-05-23"
+"math/0501020","Elena Ournycheva","E. Ournycheva and B. Rubin","The Composite Cosine Transform on the Stiefel Manifold and Generalized
+  Zeta Integrals","21 pages; updated Introduction, Sec. 4.1, and Sec. 5, added
+  references",,,,"math.FA",,"  We introduce a new integral transform $T^\lam f$, $\lam \in C^m$, on the
+Stiefel manifold of orthonormal $m$-frames in $R^n$ which generalizes the
+$\lam$-cosine transform on the Grassmann manifold of $m$-dimensional linear
+subspaces of $R^n$. We call it the composite cosine transform, by taking into
+account that its kernel agrees with the composite power function of the cone of
+positive definite symmetric matrices. Our aim is to describe the set of all
+$\lam \in C^m$ for which $T^\lam$ is injective on the space of integrable
+functions. We obtain the precise description of this set in some important
+cases, in particular, for $\lam$-cosine transforms on Grassmann manifolds. The
+main tools are the classical Fourier analysis of functions of matrix argument
+and the relevant zeta integrals.
+","[{""version"":""v1"",""created"":""Sun, 2 Jan 2005 14:46:39 GMT""},{""version"":""v2"",""created"":""Tue, 8 Mar 2005 10:14:44 GMT""}]","2007-05-23"
+"quant-ph/0501001","Alexander Popov","A. K. Popov, S. A. Myslivets and Thomas F. George","Manipulative resonant nonlinear optics: nonlinear interference effects
+  and quantum control of nonlinearity, dispersion, transparency and
+  inversionless amplification in an extended strongly-absorbing
+  inhomogeneously-broadened medium","15 pages, 12 figures, 46 references","Physical Review A 71, 043811(13 pages) (2005)","10.1103/PhysRevA.71.043811",,"quant-ph physics.optics",,"  Specific features of nonlinear interference processes at quantum transitions
+in near- and fully-resonant optically-dense Doppler-broadened medium are
+studied. The feasibility of overcoming of the fundamental limitation on a
+velocity-interval of resonantly coupled molecules imposed by the Doppler effect
+is shown based on quantum coherence. This increases the efficiency of
+nonlinear-optical processes in atomic and molecular gases that possess the most
+narrow and strongest resonances. The possibility of all-optical switching of
+the medium to opaque or, alternatively, to absolutely transparent, or even to
+strongly-amplifying states is explored, which is controlled by a small
+variation of two driving radiations. The required intensities of the control
+fields are shown to be typical for cw lasers. These effects are associated with
+four-wave mixing accompanied by Stokes gain and by their interference in fully-
+and near-resonant optically-dense far-from-degenerate double-Lambda medium.
+Optimum conditions for inversionless amplification of short-wavelength
+radiation above the oscillation threshold at the expense of the
+longer-wavelength control fields, as well as for Raman gain of the generated
+idle infrared radiation, are investigated. The outcomes are illustrated with
+numerical simulations applied to sodium dimer vapor. Similar schemes can be
+realized in doped solids and in fiber optics.
+","[{""version"":""v1"",""created"":""Sat, 1 Jan 2005 16:37:56 GMT""}]","2009-11-11"

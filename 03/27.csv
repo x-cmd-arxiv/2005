@@ -1,0 +1,406 @@
+"astro-ph/0503577","John S. Mathis","John S. Mathis (1) and Kenneth Wood (2) ((1) The University of
+  Wisconsin-Madison, (2) University of St. Andrews)","The Effects of Clumping on Derived Abundances in H II Regions","11 pages, 10 figures. Accepted by MNRAS","Mon.Not.Roy.Astron.Soc. 360 (2005) 227-235","10.1111/j.1365-2966.2005.09029.x",,"astro-ph",,"  We have compared Monte Carlo photoionization models of H II regions with a
+uniform density distribution with models with the same central stars and
+chemical compositions but with 3-D hierarchical clumps. We compare the
+abundances of He, N, O, Ne, and S obtained from emission line strengths and [O
+III] and [N II] temperatures to those in our models. We consider stellar
+temperatures in the range 37.5 -- 45kK and ionizing luminosities from 10^{48}
+to 10^{51} photons/s.
+  Clumped models have different ionic abundances than uniform. For hot stars,
+He^0/He^+ is 2 -- 3%, much larger than with uniform models. This amount of He I
+is independent of metallicity and so impacts the determination of the
+primordial abundance of He. The total abundances of O, Ne, and S obtained by
+the usual methods of analysis, using T([OIII) for high stages of ionization and
+T([NII]) for low, are about as accurate for clumped models as for uniform and
+within about 20% of the true values. If T([OIII]) is used for analyzing all
+ions, the derived (O/H) is 40 to 60% too large for cool stars but is good for
+hot stars. Uniform models have similar errors, so the clumping does not change
+the accuracy of abundance analysis.
+  The physical causes of the ionic abundance errors are present in real
+nebulae. In clumped models, helium ionizing radiation from zones of high
+ionization (low He^0 and low UV opacity) can penetrate nearby regions near the
+edge of the ionized zone. This effect allows He^0 to absorb more stellar
+photons than in uniform or radially symmetrical geometries. In turn, these
+absorptions compete with O+, etc., for those energetic stellar photons.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 16:52:30 GMT""}]","2009-11-10"
+"astro-ph/0503578","Umezu Kenichi","K. Umezu, K. Ichiki, M. Yahiro","Cosmological Constraints on Newton's Constant","4 pages, 5 figures","Phys.Rev. D72 (2005) 044010","10.1103/PhysRevD.72.044010",,"astro-ph",,"  We present cosmological constraints on deviations of Newton's constant at
+large scales, analyzing latest cosmic microwave background (CMB) anisotropies
+and primordial abundances of light elements synthesized by big bang
+nucleosynthesis (BBN). BBN limits the possible deviation at typical scales of
+BBN epoch, say at 10^8 \sim 10^12m, to lie between -5% and +1% of the
+experimental value, and CMB restricts the deviation at larger scales 10^2 \sim
+10^9pc to be between -26% and +66% at the 2\sigma confidence level. The
+cosmological constraints are compared with the astronomical one from the
+evolution of isochrone of globular clusters.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 03:33:54 GMT""}]","2009-11-10"
+"astro-ph/0503579","Willy Kley","Willy Kley (1), Man-Hoi Lee (2), Norman Murray (3), Stan Peale (2)
+  ((1) Tuebingen, (2) Santa Barbara, (3) Toronto)","Modeling the resonant planetary system GJ876","Paper accepted by A&A, 17 Pages, 17 Figures",,"10.1051/0004-6361:20052656",,"astro-ph",,"  The two planets about the star GJ 876 appear to have undergone extensive
+migration from their point of origin in the protoplanetary disk -- both because
+of their close proximity to the star (30 and 60 day orbital periods) and
+because of their occupying three stable orbital resonances at the 2:1
+mean-motion commensurability. The resonances were most likely established by
+converging differential migration of the planets leading to capture into the
+resonances. A problem with this scenario is that continued migration of the
+system while it is trapped in the resonances leads to orbital eccentricities
+that rapidly exceed the observational upper limits of e_1 = 0.31 and e_2 =
+0.05. As seen in forced 3-body simulations, lower eccentricities would persist
+during migration only for an applied eccentricity damping.
+  Here we explore the evolution of the GJ 876 system using two-dimensional
+hydrodynamical simulations that include viscous heating and radiative effects.
+We find that a hydrodynamic evolution within the resonance, where only the
+outer planet interacts with the disk, always rapidly leads to large values of
+eccentricities that exceed those observed.
+  Only if mass is removed from the disk on a time scale of the order of the
+migration time scale (before there has been extensive migration after capture),
+as might occur for photoevaporation in the late phases of planet formation, can
+we end up with eccentricities that are consistent with the observations.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 13:21:57 GMT""}]","2009-11-10"
+"cond-mat/0503627","Boris D. Lubachevsky","Boris D. Lubachevsky","How to Simulate Billiards and Similar Systems","29 pages. 10 figures","Journal of Computational Physics, v.94 n.2, p.255-283, June 1991","10.1016/0021-9991(91)90222-7",,"cond-mat.mtrl-sci cs.DS math.DS",,"  An N-component continuous-time dynamic system is considered whose components
+evolve autonomously all the time except for in discrete asynchronous instances
+of pairwise interactions. Examples include chaotically colliding billiard balls
+and combat models. A new efficient serial event-driven algorithm is described
+for simulating such systems. Rather than maintaining and updating the global
+state of the system, the algorithm tries to examine only essential events,
+i.e., component interactions. The events are processed in a non-decreasing
+order of time; new interactions are scheduled on the basis of the examined
+interactions using preintegrated equations of the evolutions of the components.
+If the components are distributed uniformly enough in the evolution space, so
+that this space can be subdivided into small sectors such that only O(1)
+sectors and O(1)$components are in the neighborhood of a sector, then the
+algorithm spends time O (log N) for processing an event which is the
+asymptotical minimum. The algorithm uses a simple strategy for handling data:
+only two states are maintained for each simulated component. Fast data access
+in this strategy assures the practical efficiency of the algorithm. It works
+noticeably faster than other algorithms proposed for this model.
+  Key phrases: collision detection, dense packing, molecular dynamics, hard
+spheres, granular flow
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 16:15:36 GMT""},{""version"":""v2"",""created"":""Fri, 28 Jul 2006 20:25:06 GMT""}]","2015-06-25"
+"cond-mat/0503628","Leonid Levitov","L S Levitov, B D Simons, and L V Butov","Pattern Formation in Exciton System near Quantum Degeneracy","6 pages, 2 figures, proceedings of International Conference on
+  Spontaneous Coherence in Exciton Systems","Solid State Comm., v. 134, p. 51-57 (2005)","10.1016/j.ssc.2004.11.050",,"cond-mat.mes-hall",,"  We discuss models of the modulational instability in a cold exciton system in
+coupled quantum wells. One mechanism involves exciton formation in a
+photoexcited electron-hole system in the presence of stimulated binding
+processes which build up near exciton degeneracy. It is shown that such
+processes may give rise to Turing instability leading to a spatially modulated
+state. The structure and symmetry of resulting patterns depend on
+dimensionality and symmetry. In the spatially uniform 2d electron-hole system,
+the instability leads to a triangular lattice pattern while, at an
+electron-hole interface, a periodic 1d pattern develops. Wavelength selection
+mechanism is analyzed, revealing that the transition is abrupt (type I) for the
+uniform 2d system, and continuous (type II) for the electron-hole interface.
+Another mechanism that could possibly drive the instability involves long-range
+attraction of the excitons. We illustrate how such an interaction can result
+from current induced by exciton recombination ('plasmon wind'), derive
+stability criterion, and discuss likelihood of such a scenario.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 16:53:26 GMT""}]","2008-04-13"
+"cond-mat/0503629","Jian Chang  Li","JianChang Li, Kye-Young Kim, Silas C. Blackstock, and Greg J.
+  Szulczewski","Effect of molecular structure and oxidation potential on the device
+  performance of single-carrier organic diodes","12 pages, 5 figures, 1 table, original manuscript","Chem. Mater. 2004, 16, 4711-4714",,,"cond-mat.mtrl-sci cond-mat.soft",,"  The fabrication of single-carrier organic diodes from a series of sixteen
+molecular materials is reported. We experimentally demonstrate how the
+molecular structure affects the film morphology, and how the film morphology
+influences the diode performance. The compounds, with moderate molecular size
+and dendritic structures, are shown to be more favorable for good device
+performance than those small molecules with symmetry structures. The device
+turn-on voltage is found to be strongly dependent on the molecular first
+oxidation potentials. Independent of different anode materials, no obvious
+interfacial charge/dipole effects are observed in the devices. Our results may
+suggest that singlecarrier organic diode might offer a simple way for screeing
+appropriate molecular materials preferable for practical multilayer devices.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 21:00:37 GMT""}]","2007-05-23"
+"cond-mat/0503630","Bruce N. Miller","Bruce N. Miller and Terrence L. Reese","Self-trapping at the liquid vapor critical point","12 pages, 3 figures, revtex4 preprint",,"10.1142/S0217984906010561",,"cond-mat.mes-hall cond-mat.stat-mech",,"  Experiments suggest that localization via self-trapping plays a central role
+in the behavior of equilibrated low mass particles in both liquids and in
+supercritical fluids. In the latter case, the behavior is dominated by the
+liquid-vapor critical point which is difficult to probe, both experimentally
+and theoretically. Here, for the first time, we present the results of
+path-integral computations of the characteristics of a self-trapped particle at
+the critical point of a Lennard-Jones fluid for a positive particle-atom
+scattering length. We investigate the influence of the range of the
+particle-atom interaction on trapping properties, and the pick-off decay rate
+for the case where the particle is ortho-positronium.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 22:20:44 GMT""}]","2015-06-25"
+"cond-mat/0503632","Val Novosad","V. Novosad, F. Y. Fradin, P. E. Roy, K. Buchanan, K. Yu. Guslienko,
+  and S. D. Bader","Magnetic Vortex Resonance in Patterned Ferromagnetic Dots","submitted to PRB, 17 pages, 5 Figs","Phys. Rev. B 72, 024455 (2005)","10.1103/PhysRevB.72.024455",,"cond-mat.mtrl-sci",,"  We report a high-resolution experimental detection of the resonant behavior
+of magnetic vortices confined in small disk-shaped ferromagnetic dots. The
+samples are magnetically soft Fe-Ni disks of diameter 1.1 and 2.2 um, and
+thickness 20 and 40 nm patterned via electron beam lithography onto microwave
+co-planar waveguides. The vortex excitation spectra were probed by a vector
+network analyzer operating in reflection mode, which records the derivative of
+the real and the imaginary impedance as a function of frequency. The spectra
+show well-defined resonance peaks in magnetic fields smaller than the
+characteristic vortex annihilation field. Resonances at 162 and 272 MHz were
+detected for 2.2 and 1.1 um disks with thickness 40 nm, respectively. A
+resonance peak at 83 MHz was detected for 20-nm thick, 2-um diameter disks. The
+resonance frequencies exhibit weak field dependence, and scale as a function of
+the dot geometrical aspect ratio. The measured frequencies are well described
+by micromagnetic and analytical calculations that rely only on known properties
+of the dots (such as the dot diameter, thickness, saturation magnetization, and
+exchange stiffness constant) without any adjustable parameters. We find that
+the observed resonance originates from the translational motion of the magnetic
+vortex core.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 05:24:32 GMT""}]","2007-05-23"
+"cond-mat/0503633","Tomosuke Aono","Tomosuke Aono","Duality in the Kondo model and perturbative approach to strong coupling
+  theory","4 pages, 1 figure",,,,"cond-mat.mes-hall cond-mat.str-el",,"  We investigate the duality in the Kondo model. Starting from the s-d model
+with the coupling constant $J$, the strong coupling model with the constant of
+1/J is identified. The model shows the unitary limit of the conductance, $G=2
+e^{2}/h$ at zero temperature. The perturbation theory of the model gives
+qualitative agreement with the results of numerical renormalization group and
+Bethe ansatz near $T=T_{K}$.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 09:30:04 GMT""}]","2007-05-23"
+"cond-mat/0503634","Henri Orland","Henri Orland (SPhT), Michel Bauer (SPhT)","Checking for optimal solutions in some $NP$-complete problems",,,,,"cond-mat.stat-mech cond-mat.dis-nn",,"  For some weighted $NP$-complete problems, checking whether a proposed
+solution is optimal is a non-trivial task. Such is the case for the celebrated
+traveling salesman problem, or the spin-glass problem in 3 dimensions. In this
+letter, we consider the weighted tripartite matching problem, a well known
+$NP$-complete problem. We write mean-field finite temperature equations for
+this model, and show that they become exact at zero temperature. As a
+consequence, given a possible solution, we propose an algorithm which allows to
+check in a polynomial time if the solution is indeed optimal. This algorithm is
+generalized to a class of variants of the multiple traveling salesmen problem.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 09:41:16 GMT""}]","2007-05-23"
+"cond-mat/0503635","Yair Kurzweil","Yair Kurzweil and Roi Baer","Generic Galilean invariant exchange correlation functionals with quantum
+  memory",,,"10.1103/PhysRevB.72.035106",,"cond-mat.str-el cond-mat.mtrl-sci",,"  Today, most application of time-dependent density functional theory (TDDFT)
+use adiabatic exchange-correlation (XC) potentials that do not take into
+account non-local temporal effects. Incorporating such ""memory"" terms into XC
+potentials is complicated by the constraint that the derived force and torque
+densities must integrate to zero at every instance. This requirement can be met
+by deriving the potentials from an XC action that is Galilean in-variant (GI).
+We develop a class of simple but flexible forms for an action that respect
+these constraints. The basic idea is to formulate the action in terms of the
+Eularian-Lagrangian transformation (ELT) metric tensor, which is itself GI. The
+general form of the XC potentials in this class is then derived and the linear
+response limit is derived as well.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 12:20:41 GMT""}]","2009-11-11"
+"cond-mat/0503636","Hui Pan","Hui Pan, Tsung-Han Lin, and Dapeng Yu","Spin-flip effects on the Andreev bound states and supercurrents in a
+  superconductor/quantum-dot/superconductor system","9 pages, 3 figures",,,,"cond-mat.mes-hall",,"  We investigate the spin-flip effects on the Andreev bound states and the
+supercurrent in a superconductor/quantum-dot/superconductor system
+theoretically. The spin-flip scattering in the quantum dot can reverse the
+supercurrent flowing through the system, and one $\pi$-junction transition
+occurs. By controlling the energy level of quantum dot, the supercurrent is
+reversed back and another $\pi$-junction transition appears. The different
+influences of the spin-flip scattering and the intradot energy level on the
+supercurrent are interpreted in the picture of Andreev bound states.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 14:48:37 GMT""}]","2007-05-23"
+"hep-lat/0503036","Simon Catterall","Simon Catterall","Lattice formulation of ${\cal N}=4$ super Yang-Mills theory","15 pages. 1 reference corrected","JHEP0506:027,2005","10.1088/1126-6708/2005/06/027","SU-4252-808","hep-lat hep-th",,"  We construct a lattice action for ${\cal N}=4$ super Yang-Mills theory in
+four dimensions which is local, gauge invariant, free of spectrum doubling and
+possesses a single exact supersymmetry. Our construction starts from the
+observation that the fermions of the continuum theory can be mapped into the
+component fields of a single real anticommuting Kahler-Dirac field. The
+original supersymmetry algebra then implies the existence of a nilpotent scalar
+supercharge $Q$ and a corresponding set of bosonic superpartners. Using this
+field content we write down a $Q$-exact action and show that, with an
+appropriate change of variables, it reduces to a well-known twist of ${\cal
+N}=4$ super Yang-Mills theory due to Marcus. Using the discretization
+prescription developed in an earlier paper on the ${\cal N}=2$ theory in two
+dimensions we are able to translate this geometrical action to the lattice.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 18:45:04 GMT""},{""version"":""v2"",""created"":""Wed, 15 Jun 2005 20:07:37 GMT""},{""version"":""v3"",""created"":""Tue, 4 Oct 2005 17:45:22 GMT""}]","2009-11-11"
+"hep-lat/0503037","Yigal Shamir","Maarten Golterman, Yigal Shamir, Benjamin Svetitsky","Localization properties of lattice fermions with plaquette and improved
+  gauge actions","RevTeX, 37 pages, 10 figures. Some textual changes. Final form","Phys.Rev. D72 (2005) 034501","10.1103/PhysRevD.72.034501",,"hep-lat",,"  We determine the location $\lambda_c$ of the mobility edge in the spectrum of
+the hermitian Wilson operator in pure-gauge ensembles with plaquette, Iwasaki,
+and DBW2 gauge actions. The results allow mapping a portion of the (quenched)
+Aoki phase diagram. We use Green function techniques to study the localized and
+extended modes. Where $\lambda_c>0$ we characterize the localized modes in
+terms of an average support length and an average localization length, the
+latter determined from the asymptotic decay rate of the mode density. We argue
+that, since the overlap operator is commonly constructed from the Wilson
+operator, its range is set by the value of $\lambda_c^{-1}$ for the Wilson
+operator. It follows from our numerical results that overlap simulations
+carried out with a cutoff of 1 GeV, even with improved gauge actions, could be
+afflicted by unphysical degrees of freedom as light as 250 MeV.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 10:58:07 GMT""},{""version"":""v2"",""created"":""Wed, 3 Aug 2005 09:50:39 GMT""}]","2009-11-11"
+"hep-ph/0503264","Yu-Kuo Hsiao","C. Q. Geng and Y. K. Hsiao","Study of $B\to \Lambda\bar\Lambda K$ and $B\to \Lambda\bar\Lambda \pi$","11 pages, 2 figures, 2 tables, version to appear in Phys. Lett. B","Phys.Lett. B619 (2005) 305-312","10.1016/j.physletb.2005.05.081",,"hep-ph",,"  We study three-body charmless baryonic B decays of $B \to \Lambda\bar\Lambda
+P$ with $P=\pi$ and $K$ in the standard model. We find that the branching
+ratios of the $K$ modes are about one order of magnitude larger than those of
+the corresponding $\pi$ modes unlike the cases of $B\to p\bar p P$. Explicitly,
+we obtain that $Br(B^-\to \Lambda\bar \Lambda K^-)=(2.8\pm 0.2)\times 10^{-6}$
+and $Br(\bar B^0 \to\Lambda\bar \Lambda \bar K^0)=(2.5\pm 0.3)\times 10^{-6}$.
+The former agrees well with the BELLE experimental measurement of
+$(2.91^{+0.90}_{-0.70}\pm 0.38)\times 10^{-6}$, while the latter should be seen
+at the ongoing B factories soon.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 11:23:54 GMT""},{""version"":""v2"",""created"":""Thu, 2 Jun 2005 11:58:59 GMT""}]","2015-06-25"
+"hep-ph/0503266","Miguel Sanchis","Miguel-Angel Sanchis-Lozano","Prospects of probing new physics in bottomonium decays and spectroscopy","LaTeX, 10 pages, 1 EPS figure",,,"IFIC/05-19, FTUV-05-0326","hep-ph",,"  A non-standard CP-odd Higgs boson could induce a slight (but observable)
+lepton universality breaking in Upsilon leptonic decays. Moreover, mixing
+between such a pseudoscalar Higgs boson and $\eta_b$ states might shift their
+mass levels, thereby modifying the values of the
+$M_{\Upsilon(nS)}-M_{\eta_b(nS)}$ hyperfine spplitings predicted in the
+standard model. Besides, $\eta_b$ resonances could be broader than expected
+with potentially negative consequences for discovery in both $e^+e^-$ and
+hadron colliders. A scenario with a CP violating Higgs sector is also
+considered. Finally, further strategies to search for a light Higgs particle in
+bottomonium decays are outlined.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 18:15:36 GMT""},{""version"":""v2"",""created"":""Tue, 12 Apr 2005 09:21:09 GMT""}]","2007-05-23"
+"hep-ph/0503267","Thomas W. Kephart","Paul H. Frampton and Thomas W. Kephart","Primordial Black Holes, Hawking Radiation and the Early Universe","4 Pages","Mod.Phys.Lett. A20 (2005) 1573-1576","10.1142/S0217732305017688",,"hep-ph",,"  The 511 keV gamma emission from the galactic core may originate from a high
+concentration ($\sim 10^{22}$) of primordial black holes (PBHs) in the core
+each of whose Hawking radiation includes $\sim 10^{21}$ positrons per second.
+The PBHs we consider are taken as near the lightest with longevity greater than
+the age of the universe (mass $\sim 10^{12}$ kg; Schwarzschild radius $\sim 1$
+fm). These PBHs contribute only a small fraction of cold dark matter,
+$\Omega_{PBH} \sim 10^{-8}$. This speculative hypothesis, if confirmed implies
+the simultaneous discovery of Hawking radiation and an early universe phase
+transition.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 04:39:51 GMT""}]","2009-11-11"
+"hep-th/0503207","Ilka Brunner","Ilka Brunner and Matthias R. Gaberdiel","Matrix factorisations and permutation branes","50 pages, latex, no figures, references added, typos and minor
+  mistakes corrected,notation made consistent, small error above (4.26)
+  corrected","JHEP 0507:012,2005","10.1088/1126-6708/2005/07/012",,"hep-th",,"  The description of B-type D-branes on a tensor product of two N=2 minimal
+models in terms of matrix factorisations is related to the boundary state
+description in conformal field theory. As an application we show that the D0-
+and D2-brane for a number of Gepner models are described by permutation
+boundary states. In some cases (including the quintic) the images of the
+D2-brane under the Gepner monodromy generate the full charge lattice.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 16:45:13 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jul 2005 12:39:39 GMT""},{""version"":""v3"",""created"":""Mon, 12 Dec 2005 10:22:45 GMT""}]","2010-02-03"
+"hep-th/0503208","A. D. Alhaidari","A. D. Alhaidari, H. Bahlouli, A. Al-Hasan","Dirac and Klein-Gordon equations with equal scalar and vector potentials","12 pages","Phys.Lett. A349 (2006) 87-97","10.1016/j.physleta.2005.09.008",,"hep-th",,"  We study the three-dimensional Dirac and Klein-Gordon equations with scalar
+and vector potentials of equal magnitudes as an attempt to give a proper
+physical interpretation of this class of problems which has recently been
+accumulating interest. We consider a large class of these problems in which the
+potentials are noncentral (angular-dependent) such that the equations separate
+completely in spherical coordinates. The relativistic energy spectra are
+obtained and shown to differ from those of well-known problems that have the
+same nonrelativistic limit. Consequently, such problems should not be
+misinterpreted as the relativistic extension of the given potentials despite
+the fact that the nonrelativistic limit is the same. The Coulomb, Oscillator
+and Hartmann potentials are considered. This shows that although the
+nonrelativistic limit is well-defined and unique, the relativistic extension is
+not. Additionally, we investigate the Klein-Gordon equation with uneven mix of
+potentials leading to the correct relativistic extension. We consider the case
+of spherically symmetric exponential-type potentials resulting in the s-wave
+Klein-Gordon-Morse problem.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 17:52:17 GMT""},{""version"":""v2"",""created"":""Thu, 19 May 2005 10:03:00 GMT""}]","2009-11-11"
+"hep-th/0503209","Francesco Toppan","Francesco Toppan","On a Division Algebra Classification of Constrained Generalized
+  Supersymmetries","Invited plenary talk at the IV International Conference on
+  Mathematical Methods in Physics, August 2004, Rio de Janeiro, Brazil.
+  Published in PoS WC2004/047","PoS WC2004 (2004) 047",,,"hep-th",,"  In this talk we present a division-algebra classification of the generalized
+supersymmetries admitting bosonic tensorial central charges. We show that for
+complex and quaternionic supersymmetries a whole class of compatible
+division-algebra constraints can be imposed. Possible applications to M-theory
+related dynamical systems are briefly mentioned.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 18:33:02 GMT""}]","2007-05-23"
+"hep-th/0503210","Francesco Toppan","Francesco Toppan","Quaternionic and octonionic spinors","15 pages. Talk given at the XIXth Max Born Symposium ""Fundamental
+  Interactions and Twistor-like Methods"", Wroclaw, Sept. 2004. To appear in the
+  Proceedings",,"10.1063/1.1923342",,"hep-th",,"  Quaternionic and octonionic spinors are introduced and their fundamental
+properties (such as the space-times supporting them) are reviewed. The
+conditions for the existence of their associated Dirac equations are analyzed.
+Quaternionic and octonionic supersymmetric algebras defined in terms of such
+spinors are constructed. Specializing to the D=11-dimensional case, the
+relation of both the quaternionic and the octonionic supersymmetries with the
+ordinary M-algebra are discussed.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 18:49:19 GMT""}]","2009-11-11"
+"hep-th/0503211","Bernard de Wit","Bernard de Wit","Introduction to black hole entropy and supersymmetry","22 pages (LaTex). Based on lectures presented at the III Summer
+  School in Modern Mathematical Physics, Zlatibor, 20 -- 31 August, 2004. To be
+  published in the proceedings",,,"YITP-05-12; ITP-UU-05/12; SPIN-05/10","hep-th",,"  In these lectures we introduce some of the principles and techniques that are
+relevant for the determination of the entropy of extremal black holes by either
+string theory or supergravity. We consider such black holes with N=2 and N=4
+supersymmetry, explaining how agreement is obtained for both the terms that are
+leading and those that are subleading in the limit of large charges. We discuss
+the relevance of these results in the context of the more recent developments.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 11:19:40 GMT""}]","2007-05-23"
+"hep-th/0503212","Andrei Mironov","A.Mironov, A.Morozov and T.N.Tomaras","On the Need for Phenomenological Theory of P-Vortices or Does Spaghetti
+  Confinement Pattern Admit Condensed-Matter Analogies?","20 pages, 7 figures; to be published in ZhETF","J.Exp.Theor.Phys.101:331-340,2005","10.1134/1.2047799",,"hep-th",,"  Usually the intuition from condensed-matter physics is used to provide ideas
+for possible confinement mechanisms in gauge theories. Today, with a clear but
+puzzling ``spaghetti'' confinement pattern, arising after a decade of lattice
+computer experiments, which implies formation of a fluctuating net of peculiar
+magnetic vortices rather than condensation of the homogeneously distributed
+magnetic monopoles, the time is coming to reverse the logic and search for
+similar patterns in condensed matter systems. The main thing to look for in a
+condensed matter setup is the simultaneous existence of narrow tubes
+($P$-vortices or 1-branes) of direction-changing electric field and broader
+tubes (Abrikosov lines) of magnetic field, a pattern dual to the one,
+presumably underlying confinement in gluodynamics. As a possible place for this
+search we suggest systems with coexisting charge-density waves and
+superconductivity.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 12:47:04 GMT""}]","2011-08-17"
+"hep-th/0503213","Andrei Smilga","A.V. Smilga","Ghost-free higher-derivative theory","13 pages, 1 figure","Phys.Lett.B632:433-438,2006","10.1016/j.physletb.2005.10.014",,"hep-th",,"  We present an example of the quantum system with higher derivatives in the
+Lagrangian, which is ghost-free: the spectrum of the Hamiltonian is bounded
+from below and unitarity is preserved.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 15:00:22 GMT""}]","2008-11-26"
+"math-ph/0503062","Nibaldo Alvarez-Moraga","Nibaldo Alvarez-Moraga and Veronique Hussin","Generalized coherent and squeezed states based on the $h(1) \otimes
+  su(2)$ algebra","42 pages, 10 figures","J.Math.Phys. 43 (2002) 2063-2096","10.1063/1.1462858",,"math-ph math.MP",,"  States which minimize the Schr\""odinger--Robertson uncertainty relation are
+constructed as eigenstates of an operator which is a element of the $h(1)
+\oplus \su(2)$ algebra. The relations with supercoherent and supersqueezed
+states of the supersymmetric harmonic oscillator are given. Moreover, we are
+able to compute gneneral Hamiltonians which behave like the harmonic oscillator
+Hamiltonian or are related to the Jaynes--Cummings Hamiltonian.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 18:40:58 GMT""}]","2007-05-23"
+"math/0503612","Panagiotis Stinis","Alexandre J. Chorin and Panagiotis Stinis","Problem reduction, renormalization, and memory",,,,,"math.NA",,"  Methods for the reduction of the complexity of computational problems are
+presented, as well as their connections to renormalization, scaling, and
+irreversible statistical mechanics. Several statistically stationary cases are
+analyzed; for time dependent problems averaging usually fails, and averaged
+equations must be augmented by appropriate memory and random forcing terms.
+Approximations are described and examples are given.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 23:39:47 GMT""}]","2007-05-23"
+"math/0503620","Zhi-Wei Sun","Hao Pan and Zhi-Wei Sun","Restricted sumsets and a conjecture of Lev","7 pages","Israel J. Math. 154(2006), 21-28",,,"math.CO math.NT",,"  Let A,B,S be finite subsets of an abelian group G. Suppose that the
+restricted sumset C={a+b: a in A, b in B, and a-b not in S} is nonempty and
+some c in C can be written as a+b with a in A and b in B in at most m ways. We
+show that if G is torsion-free or elementary abelian then |C|\geq |A|+|B|-|S|
+-m. We also prove that |C|\geq |A|+|B|-2|S|-m if the torsion subgroup of G is
+cyclic. In the case S={0} this provides an advance on a conjecture of Lev.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 07:25:34 GMT""},{""version"":""v2"",""created"":""Wed, 8 Jun 2005 01:52:59 GMT""},{""version"":""v3"",""created"":""Sun, 29 Oct 2006 14:13:35 GMT""}]","2007-05-23"
+"math/0503621","Vitaly Groppen","V.O. Groppen","Mathematical Models and Formal Approaches for Caching Strategies
+  Optimisation","6 pages, 1 figure, 9 references",,,,"math.OC",,"  An optimization of caching strategies is proposed as a formal approach
+allowing us a more efficient use of two-level computer memory. This approach is
+based on a set of mathematical models and a set of theorems, permitting
+analytical determination of optimal caching strategy operating characteristics,
+thus minimising time loss caused by optimal strategy search.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 17:58:09 GMT""}]","2007-05-23"
+"math/0503622","Zehua Zhou","Zehua Zhou","Weighted Composition Operators between different Bloch-type Spaces in
+  Polydisk","27 Pages",,,,"math.CV",,"  Let $\phi(z)=(\phi_1(z), ...,\phi_n(z))$ be a holomorphic self-map of $U^n$
+and $\psi(z)$ a holomorphic function on $U^n,$ where $U^n$ is the unit polydisk
+of ${\Bbb C}^n.$ Let $p\geq 0,$ $q\geq 0$, this paper gives some necessary and
+sufficient conditions for the weighted composition operator $W_{\psi,\phi}$
+induced by $\psi$ and $\phi$ to be bounded and compact between $p$-Bloch space
+${\cal B}^p(U^n)$ and $q$-Bloch space ${\cal B}^q(U^n).$
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 13:17:59 GMT""},{""version"":""v2"",""created"":""Fri, 6 May 2005 13:43:03 GMT""}]","2007-05-23"
+"nucl-ex/0503020","Vitaly Pronskikh","V.S. Pronskikh","Investigation of proton-nuclear reactions on isotopes $^{129}$I,
+  $^{237}$Np and $^{241}$Am at $E_p$ = 660 MeV","Summary report of the Thesis submitted for the fulfillment of the
+  requirements of the Ph.D. degree in Physics and Mathematics with speciality
+  ""Physics of Atomic Nuclei and Elementary Particles"" to The Dissertation
+  Council D720.001.02 of Joint Institute for Nuclear Research, Dubna, Russia",,,"D1-2005-34","nucl-ex",,"  Cross sections of the residual nuclei production in $^{129}$I, $^{237}$Np and
+$^{241}$Am target irradiated by proton beam with energy 660 MeV are measured by
+means of activation analysis with the use of HPGe detectors. The number of
+product nuclei identified amounts to 74 for $^{129}$I target, 53 for $^{237}$Np
+target and 80 for $^{241}$Am target. Theoretical model analysis employing
+eleven contemporary computer models of hadron-nuclear interactions is
+performed. Insufficient for practical purposes precision of modelling of the
+reactions under study is demonstrated. Methods for short-lived beta-unstable
+reaction product identification are developed and amended, a program package
+for gamma-spectrometry data analysis is described.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 17:27:10 GMT""}]","2007-05-23"
+"physics/0503204","Joseph Gril","Hiroyuki Yamamoto (SBS-NAGOYA), Kentaro Abe (SBS-NAGOYA), Yoshiharu
+  Arakawa (SBS-NAGOYA), Takashi Okuyama (SBS-NAGOYA), Joseph Gril (LMGC)","Role of the Gelatinous Layer (G-Layer) on the Origin of the Physical
+  Properties of the Tension Wood of Acer sieboldianum","J Wood Sci, in press (accepted April 12, 2004)","Journal of Wood Science 51, 3 (2005) 222-233","10.1007/s10086-004-0639-x",,"physics.class-ph",,"  The tension wood (TW) properties of a 70 year-old Acer sieboldianum Miq were
+analyzed by using the G-fiber model which was proposed in our previous paper.
+The roles of the G-layer on the origins of (1) a high large tensile growth
+stress, (2) a large longitudinal Young's modulus, and (3) a high longitudinal
+drying shrinkage in the tension wood xylem were discussed on the basis of the
+simulations using the G-fiber model. The results suggest that the G-layer
+generates a high tensile stress in the longitudinal direction during the xylem
+maturation; the longitudinal Young's modulus of the green G-layer becomes
+significantly higher than that of the lignified layer; furthermore, the G-layer
+tends to shrink extraordinarily higher than that of the lignified layer during
+the moisture desorption.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 16:21:53 GMT""}]","2013-02-19"
+"physics/0503205","Joseph Gril","Fran\c{c}ois Sassus (LMGC), Tancr\`ede Alm\'eras (LMGC, SBS-NAGOYA),
+  Joseph Gril (LMGC), Hiroyuki Yamamoto (SBS-NAGOYA)","Mod\'{e}lisation des d\'{e}formations de maturation de la fibre","to be published in Cahiers Scientifiques du Bois",,,,"physics.class-ph",,"  The generation mechanism of growth strains is investigated theoretically by
+developing an elastic analysis of a wood cell viewed as a composite tube, with
+layers composed of a ligno-cellulosic material of varying composition and
+microfibrillar orientation. For each layer, the kinetics of induced strain is
+assumed synchronous with that of rigidification. In this case, variations of
+polymer behaviour concomitant with orientation must be invoked to account for
+observed variations of the growth strain.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 16:23:39 GMT""}]","2016-08-16"
+"physics/0503207","Andrew Chubykalo","A. Chubykalo, A. Espinoza and R. Flores-Alvarado","Brownstein's Whole-Partial Derivatives: The Case of the Lorentz Gauge","18 pages","Hadronic Journal vol. 27 (6) p.625 (2004)",,,"physics.gen-ph",,"  In this brief note we show that the usual Lorentz gauge is not satisfied by
+the Lienard-Wiechert potentials, then, using Brownstein's concept of
+""whole-partial"" derivatives we introduce the generalized expression for the
+Lorentz gauge showing that it is satisfied by the LW-potentials.
+","[{""version"":""v1"",""created"":""Sun, 27 Mar 2005 06:37:18 GMT""}]","2007-05-23"
+"quant-ph/0503208","Aikaterini Mandilara","A. Mandilara, J. W. Clark, M. S. Byrd","Elliptical orbits in the Bloch sphere","9 pages, 4 figures, few corrections, J. Opt. B: Quantum Semiclass.
+  Opt. 7 (2005) S1-S6",,"10.1088/1464-4266/7/10/011",,"quant-ph",,"  As is well known, when an SU(2) operation acts on a two-level system, its
+Bloch vector rotates without change of magnitude. Considering a system composed
+of two two-level systems, it is proven that for a class of nonlocal
+interactions of the two subsystems including \sigma_i\otimes\sigma_j (with i,j
+\in {x,y,z}) and the Heisenberg interaction, the geometric description of the
+motion is particularly simple: each of the two Bloch vectors follows an
+elliptical orbit within the Bloch sphere. The utility of this result is
+demonstrated in two applications, the first of which bears on quantum control
+via quantum interfaces. By employing nonunitary control operations, we extend
+the idea of controllability to a set of points which are not necessarily
+connected by unitary transformations. The second application shows how the
+orbit of the coherence vector can be used to assess the entangling power of
+Heisenberg exchange interaction.
+","[{""version"":""v1"",""created"":""Sat, 26 Mar 2005 21:23:27 GMT""},{""version"":""v2"",""created"":""Fri, 19 Aug 2005 18:34:04 GMT""}]","2009-11-11"

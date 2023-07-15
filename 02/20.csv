@@ -1,0 +1,346 @@
+"astro-ph/0502389","Orkan Umurhan","O.M. Umurhan, A. Nemirovsky, O. Regev and G. Shaviv","Hydrodynamical stability of thin accretion discs: transient growth of
+  global axisymmetric perturbations","20 pages, 4 figues (last figure in jpg format). Submitted to MNRAS",,,,"astro-ph",,"  The purpose of this paper is to explore how accretion discs manifest the
+phenomenon of transient growth on a global scale. We investigate analytically
+the time response of a thin accretion disc to particular axisymmetric
+perturbations. To facilitate an analytical treatment we replace the energy
+equation with a general polytropic assumption. The asymptotic expansion of
+Klu\'zniak & Kita (2000), which extended the method of Regev (1983) to a full
+steady polytropic disc (with $n=3/2$), is further developed and implemented for
+both the steady (for any polytropic index) and time-dependent problems. The
+spatial form and temporal behaviour of selected dynamical disturbances are
+studied in detail. We identify the perturbation space which leads to transient
+growth and provide analytical solutions which manifest this expected transient
+growth behaviour. Three terms (physical causes) responsible for the appearance
+of transient growth are identified. Two depend explicitly on the viscosity
+while the third one is relevant also for inviscid discs. The main conclusion we
+draw is that the phenomenon of transient growth exists in discs on a global
+scale.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 09:28:39 GMT""}]","2007-05-23"
+"cond-mat/0502481","Mikhail Feigel'man V.","M. V. Feigel'man and A. S. Ioselevich","Variable range cotunneling and conductivity of a granular metal","Submitted to JETP Letters",,"10.1134/1.1931015",,"cond-mat.mes-hall cond-mat.dis-nn",,"  The Efros-Shklovskii law for the conductivity of granular metals is
+interpreted as a result of a variable range cotunneling process. The
+cotunneling between distant resonant grains is predominantly elastic at low T
+<< T_c, while it is inelastic (i.e., accompanied by creation of electron-hole
+pairs on a string of intermediate non-resonant grains) at T > T_c. The
+corresponding E-S temperature T_ES in the latter case is slightly
+(logarithmically) T-dependent. The magnetoresistance in the two cases is
+different: it may be relatively strong and negative at T much below T_c, while
+at T>T_c it is suppressed due to inelastic processes which destroy the
+interference.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 17:27:23 GMT""}]","2009-11-11"
+"cond-mat/0502482","Zhao-xin Liang Dr.","Z. X. Liang, Z. D. Zhang, W. M. Liu","Dynamics of a Bright Soliton in Bose-Einstein condensates with
+  Time-Dependent Atomic Scattering Length in an Expulsive Parabolic Potential","4 pages, 2 figures","Phys. Rev. Lett. 94, 050402 (2005)","10.1103/PhysRevLett.94.050402",,"cond-mat.other",,"  We present a family of exact solutions of one-dimensional nonlinear
+Schr\""odinger equation, which describe the dynamics of a bright soliton in
+Bose-Einstein condensates with the time-dependent interatomic interaction in an
+expulsive parabolic potential. Our results show that, under the safe range of
+parameters, the bright soliton can be compressed into very high local matter
+densities by increasing the absolute value of atomic scattering length, which
+can provide an experimental tool for investigating the range of validity of the
+one-dimensional Gross-Pitaevskii equation. We also find that the number of
+atoms in the bright soliton keeps dynamic stability: a time-periodic atomic
+exchange is formed between the bright soliton and the background.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 09:18:59 GMT""}]","2009-11-11"
+"cs/0502080","Youngchul Sung","Youngchul Sung, Lang Tong and H. Vincent Poor","Sensor Configuration and Activation for Field Detection in Large Sensor
+  Arrays","7 pages with 11 figures; also to appear in the Fourth International
+  Conference on Information Processing in Sensor Networks",,,,"cs.IT math.IT",,"  The problems of sensor configuration and activation for the detection of
+correlated random fields using large sensor arrays are considered. Using
+results that characterize the large-array performance of sensor networks in
+this application, the detection capabilities of different sensor configurations
+are analyzed and compared. The dependence of the optimal choice of
+configuration on parameters such as sensor signal-to-noise ratio (SNR), field
+correlation, etc., is examined, yielding insights into the most effective
+choices for sensor selection and activation in various operating regimes.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 17:04:59 GMT""}]","2007-07-16"
+"cs/0502081","Gerard Henry Edmond Duchamp","Cyrille Bertelle (LIH), G\'erard Henry Edmond Duchamp (LIPN), Khalaf
+  Khatatneh (LIFAR)","Tables, Memorized Semirings and Applications",,,,,"cs.MA cs.DM",,"  We define and construct a new data structure, the tables, this structure
+generalizes the (finite) $k$-sets sets of Eilenberg \cite{Ei}, it is versatile
+(one can vary the letters, the words and the coefficients). We derive from this
+structure a new semiring (with several semiring structures) which can be
+applied to the needs of automatic processing multi-agents behaviour problems.
+The purpose of this account/paper is to present also the basic elements of this
+new structures from a combinatorial point of view. These structures present a
+bunch of properties. They will be endowed with several laws namely : Sum,
+Hadamard product, Cauchy product, Fuzzy operations (min, max, complemented
+product) Two groups of applications are presented. The first group is linked to
+the process of ""forgetting"" information in the tables. The second, linked to
+multi-agent systems, is announced by showing a methodology to manage emergent
+organization from individual behaviour models.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 09:08:03 GMT""}]","2016-08-16"
+"hep-ex/0502038","Gobinda Majumder","G. Majumder, et al. (for the Belle Collaboration)","Observation of $B^0 \to D^+ D^-$, $B^- \to D^0 D^-$ and $B^- \to D^0
+  D^{*-}$ decays","9 pages, 2 figures, KEK Preprint 2004-99, Belle Prerpint 2005-3,
+  submitted to PRL","Phys.Rev.Lett.95:041803,2005","10.1103/PhysRevLett.95.041803",,"hep-ex",,"  We report the first observation of the decay modes $B^0 \to D^+ D^-$, $B^-
+\to D^0 D^-$ and $B^- \to D^0 D^{*-}$ based on 152 $\times$ 10$^6$ $B\bar{B}$
+events collected at KEKB. The branching fractions of $B^0 \to D^+ D^-$, $B^-
+\to D^0 D^-$ and $B^- \to D^0 D^{*-}$ are found to be $(3.21 \pm 0.57 \pm 0.48)
+\times 10^{-4}$, $(5.62 \pm 0.82 \pm 0.65) \times 10^{-4}$ and $(4.59 \pm 0.72
+\pm 0.56) \times 10^{-4}$, respectively. Charge asymmetries in the $B^- \to D^0
+D^-$ and $B^- \to D^0 D^{*-}$ channels are consistent with zero.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 13:46:23 GMT""}]","2019-08-14"
+"hep-ph/0502181","Luis Lavoura","Luis Lavoura (Technical Univ. Lisbon) and Ernest Ma (Univ. California)","Two predictive supersymmetric S3 x Z2 models for the quark mass matrices","10 pages latex, no figures, no tables","Mod.Phys.Lett. A20 (2005) 1217-1226","10.1142/S0217732305017561","UCRHEP-T386","hep-ph",,"  We propose two simple models for the quark mass matrices which may be
+implemented through an S3 x Z2 symmetry in a supersymmetric context. Each model
+has eight parameters and, therefore, makes two independent predictions for the
+quark mixing matrix. The first model predicts |Vub / Vcb| approx sqrt{m_u /
+m_c} sim 0.06 and |Vtd / Vts| approx sqrt{m_d / m_s} sim 0.23. The second
+model, in which the forms of the up-type-quark and down-type-quark mass
+matrices are interchanged relative to the first one, predicts |Vub / Vcb| sim
+0.11 and |Vtd / Vts| sim 0.33. Both models have sin(2 beta) sim 0.5.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 16:27:33 GMT""}]","2009-11-11"
+"hep-ph/0502182","Martin Schmaltz","Martin Schmaltz and David Tucker-Smith","Little Higgs Review","To appear in Annual Review of Nuclear and Particle Science; contains
+  TASI'05 Little Higgs lecture notes, 44 pages","Ann.Rev.Nucl.Part.Sci.55:229-270,2005","10.1146/annurev.nucl.55.090704.151502",,"hep-ph",,"  Recently there has been renewed interest in the possibility that the Higgs
+particle of the Standard Model is a pseudo-Nambu-Goldstone boson. This
+development was spurred by the observation that if certain global symmetries
+are broken only by the interplay between two or more coupling constants, then
+the Higgs mass-squared is free from quadratic divergences at one loop. This
+""collective symmetry"" breaking is the essential ingredient in little Higgs
+theories, which are weakly coupled extensions of the Standard Model with little
+or no fine tuning, describing physics up to an energy scale ~10 TeV. Here we
+give a pedagogical introduction to little Higgs theories. We review their
+structure and phenomenology, focusing mainly on the SU(3) theory, the Minimal
+Moose, and the Littlest Higgs as concrete examples.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 23:44:32 GMT""}]","2009-11-11"
+"hep-ph/0502183","Cheng-Wei Chiang","Cheng-Wei Chiang","Constraining gamma from K* pi and rho K Decays","12 pages and 2 figures; typo corrected and references added",,,,"hep-ph hep-ex",,"  We show that information on the weak phase gamma can be extracted from the K*
+pi and rho K decays. Less hadronic uncertainty is involved when the observables
+of four of these modes are combined together. We further point out two
+approximate relations in these decay modes can help determine whether there are
+new physics contributions in Delta I = 1 transitions, as hinted in the K pi
+modes.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 08:30:37 GMT""},{""version"":""v2"",""created"":""Fri, 25 Feb 2005 20:45:08 GMT""}]","2007-05-23"
+"hep-ph/0502184","Mikhail Braun","M.A.Braun","On the inclusive gluon jet production off the nucleus in the
+  perturbative QCD","22 pages in LaTex, inclusing 7 figures","Eur.Phys.J.C42:169-181,2005","10.1140/epjc/s2005-02290-1",,"hep-ph",,"  In the perturbative QCD approach single and double inclusive cross-sections
+for gluon production off the nucleus are studied from the relevant reggeized
+gluon diagrams. Various terms corresponding to emission of gluons from the
+triple Pomeron vertex are found. Among them the term derived by Kovchegov and
+Tuchin emerges as a result of transition from the diffractive to effective
+high-energy vertex. However it does not exhaust all the vertex contributions to
+the inclusive cross-section. In the double inclusive cross-section a
+contribution violating naive AGK rules is found, in which one gluon is emitted
+from the vertex and the other from one of the Pomerons below the vertex. But
+then this contribution is subdominant at high energies and taking it into
+account seems to be questionable.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 12:37:27 GMT""}]","2011-09-13"
+"hep-th/0502176","El Hassan Saidi","El Hassan Saidi","Hyperbolic Invariance in Type II Superstrings","18 pages, 6 figures, Talk given at IPM String School and Workshop,
+  ISS2005, January 5-14, 2005, Qeshm Island, IRAN",,,"Lab/UFR-HEP0502, GNPHE/0502, VACBT/0502","hep-th",,"  We first review aspects of Kac Moody indefinite algebras with particular
+focus on their hyperbolic subset. Then we present two field theoretical systems
+where these structures appear as symmetries. The first deals with complete
+classification of $\mathcal{N}=2$ supersymmetric CFT$_{4}$s and the second
+concerns the building of hyperbolic quiver gauge theories embedded in type IIB
+superstring compactification of Calabi-Yau threefolds. We show, amongst others,
+that $\mathcal{N}=2$ CFT$_{4}$s are classified by Vinberg theorem and
+hyperbolic structure is carried by the axion modulus.
+  Keywords: Classification of KM algebras, Indefinite KM sector and Hyperbolic
+subset, Quiver gauge theories embedded in type II superstrings.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 12:09:27 GMT""}]","2007-05-23"
+"math-ph/0502042","Frederic Henry-Couannier","Frederic Henry-Couannier (CPPM), Gilles D'Agostini (LAM), Jean-Pierre
+  Petit (LAM)","I - Matter, antimatter and geometry II - The twin universe model : a
+  solution to the problem of negative energy particles III - The twin universe
+  model plus electric charges and matter-antimatter symmetry","19 Fevrier 2004",,,,"math-ph math.MP",,"  We introduce a new dynamical group whose coadjoint action on its momentum
+space takes account of matter-antimatter symmetry on pure geometrical grounds.
+According to this description the energy and the spin are unchanged under
+matter-antimatter symmetry. We recall that the antichron components of the
+Poincar\'{e} group, ruling relativistic motions of a mass-point particle,
+generate negative energy particles. The model with two twin universes, inspired
+by Sakharov's one, solves the stability issue. Positive and negative energy
+particles motions hold in two distinct folds. The model is extended to charged
+particles. As a result, the matter-antimatter duality holds in both universes.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 09:05:41 GMT""},{""version"":""v2"",""created"":""Wed, 9 Mar 2005 07:48:15 GMT""}]","2007-05-23"
+"math/0502414","Victor Bakhtin","V. I. Bakhtin, A. V. Lebedev","When a C*-algebra is a coefficient algebra for a given endomorphism",,,,,"math.OA",,"  The paper presents a criterion for a C*-algebra to be a coefficient algebra
+associated with a given endomorphism
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 23:20:22 GMT""}]","2007-05-23"
+"math/0502415","Victor Bakhtin","A. B. Antonevich, V. I. Bakhtin, A. V. Lebedev","Crossed product of a C*-algebra by an endomorphism, coefficient algebras
+  and transfer operators",,,,,"math.OA",,"  The paper presents a construction of the crossed product of a C*-algebra by
+an endomorphism generated by partial isometry
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 23:25:23 GMT""}]","2007-05-23"
+"math/0502416","Alexander Engstr\""om","Alexander Engstrom","Two multicolor Ramsey numbers","4 pages, 2 figures",,,,"math.CO",,"  Two new bounds for multicolor Ramsey numbers are proved:
+$R(K_3,K_3,C_4,C_4)\geq 27$ and $R_4(C_4)\leq 19$.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 20:55:53 GMT""}]","2007-05-23"
+"math/0502417","Alexander I. Suciu","Graham Denham, Alexander I. Suciu","On the homotopy Lie algebra of an arrangement","20 pages; accepted for publication by the Michigan Math. Journal","Michigan Mathematical Journal 54 (2006), no. 2, 319-340","10.1307/mmj/1156345597",,"math.AT math.CO",,"  Let A be a graded-commutative, connected k-algebra generated in degree 1. The
+homotopy Lie algebra g_A is defined to be the Lie algebra of primitives of the
+Yoneda algebra, Ext_A(k,k). Under certain homological assumptions on A and its
+quadratic closure, we express g_A as a semi-direct product of the
+well-understood holonomy Lie algebra h_A with a certain h_A-module. This allows
+us to compute the homotopy Lie algebra associated to the cohomology ring of the
+complement of a complex hyperplane arrangement, provided some combinatorial
+assumptions are satisfied. As an application, we give examples of hyperplane
+arrangements whose complements have the same Poincar\'e polynomial, the same
+fundamental group, and the same holonomy Lie algebra, yet different homotopy
+Lie algebras.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 21:18:51 GMT""},{""version"":""v2"",""created"":""Fri, 22 Jul 2005 22:58:17 GMT""}]","2010-10-26"
+"math/0502418","Brian Harbourne","Giuliana Fatabbi, Brian Harbourne, Anna Lorenzini","Resolutions of ideals of fat points with support in a hyperplane","10 pages; to appear in Proc. Amer. Math. Soc.; some expositional
+  changes; added a reference to paper of Geramita, Migliore and Sabourin
+  (math.AC/0411445)",,,,"math.AG math.AC",,"  Our results concern minimal graded free resolutions of fat point ideals for
+points in a hyperplane. Suppose, for example, that I(m,d) is the ideal defining
+r given points of multiplicity m in the projective space P^d. Assume that the
+given points lie in a hyperplane P^{d-1} in P^d, and that the ground field k is
+algebraically closed of characteristic 0. We give an explicit minimal graded
+free resolution of I(m,d) in k[P^d] in terms of the minimal graded free
+resolutions of the ideals I(j,d-1) in k[P^{d-1}] with j < m+1. As a corollary,
+we give the following formula for the Poincare polynomial P_{m,d} of I(m,d) in
+terms of the Poincare polynomials P_{j,d-1} of I(j,d-1): P_{m,d} = (1 +
+XT)(\Sigma_{0<j\le m} T^{m-j}(P_{j,d-1} - 1)) + 1 + XT^m.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 22:46:40 GMT""},{""version"":""v2"",""created"":""Mon, 11 Jul 2005 03:42:26 GMT""}]","2007-05-23"
+"math/0502419","Brian Harbourne","Brian Harbourne","The (unexpected) importance of knowing $\alpha$","5 pages; to appear in ""Projective varieties with unexpected
+  properties. A volume in memory of Giuseppe Veronese""",,,,"math.AG",,"  In order to determine the Hilbert function of the ideal of a fat point
+subscheme of projective space, we show that it is enough to determine, both for
+the subscheme itself and the subschemes obtained from it by successively
+adjoining to it additional general points, the least degrees in which the
+ideals of the subschemes are nonzero. This point of view gives rise to the
+following conjecture: if C is any reduced irreducible curve on a surface X
+obtained by blowing up P^2 at any finite number of generic points, then C^2 >
+g-2, where g is the arithmetic genus of C. This conjecture is shown to be
+equivalent to the usual well-known conjectures for computing dimensions of
+complete linear systems on X.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 23:57:07 GMT""}]","2007-05-23"
+"math/0502420","Julien Melleray","Julien Melleray (Univ. Paris 6)","Stabilizers of closed sets in the Urysohn space",,,,,"math.MG math.GR",,"  Answering a question of Gao and Kechris, we show that, given any polish group
+G, there exists a closed subset F of Urysohn's universal metric space U such
+that G is (topologically) isomorphic to the subgroup of isometries of U which
+map F onto itself.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 01:02:09 GMT""}]","2007-05-23"
+"math/0502421","Jordan Bell","Leonhard Euler","Concerning life annuities","9 pages, English translation of ``Sur les rentes viageres'', Memoires
+  de l'academie des sciences de Berlin 16 (1767), 165-175",,,,"math.HO math.PR",,"  This seems to be the first English translation of this paper from the French
+original, ``Sur les rentes viageres''. In the paper, Euler gives a general
+formula for calculating the price of a life annuity that yields a certain
+amount per year, assuming the annuity manager can get a 5 percent return, for
+people of different ages. He also gives formulas to calculate the price of
+annuities that only start to pay out a certain number of years after they are
+purchased. He gives many numerical examples, giving tables for the prices of
+annuities for annuitants up to 90 years old.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 02:10:34 GMT""},{""version"":""v2"",""created"":""Sat, 26 Feb 2005 03:58:19 GMT""}]","2007-05-23"
+"math/0502423","Baruch Solel","Baruch Solel","Representations of product systems over semigroups and dilations of
+  commuting CP maps","Revised version. References added. Changes in exposition. To appear
+  in JFA",,,,"math.OA",,"  We study completely contractive representations of product systems of
+$C^*$-correspondences over semigroups. For a product system of
+$C^*$-correspondences over the semigroup $\mathbb{N}^2$, we prove that every
+such representation can be dilated to an isometric (or Toeplitz)
+representation. We use it to prove that every pair of commuting CP maps on a
+von Neumann algebra $M$ can be dilated to a commuting pair of endomorphisms (on
+a larger von Neumann algebra).
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 08:44:10 GMT""},{""version"":""v2"",""created"":""Thu, 1 Dec 2005 07:06:12 GMT""}]","2007-05-23"
+"math/0502424","Stephane Grognet","Stephane Grognet (Laboratoire De Math\'ematiques Jean Leray)","Marked length spectrum of magnetized surfaces",,,,,"math.DG",,"  The main result presented here is that the flow associated with a riemannian
+metric and a non zero magnetic field on a compact oriented surface without
+boundary, under assumptions of hyperbolic type, cannot have the same length
+spectrum of topologically corresponding periodic orbits as the geodesic flow
+associated with another riemannian metric having a negative curvature and the
+same total volume. The main tool is a regularization inspired by U.
+Hamenst\""adt's methods.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 09:04:53 GMT""}]","2016-08-16"
+"math/0502425","Jordan Bell","Leonhard Euler, Jordan Bell","An arithmetic theorem and its demonstration","7 pages; E794",,,,"math.HO math.NT","http://arxiv.org/licenses/nonexclusive-distrib/1.0/","  Translated from the Latin original, ""Theorema arithmeticum eiusque
+demonstratio"", Commentationes arithmeticae collectae 2 (1849), 588-592. E794 in
+the Enestroem index. For m distinct numbers a,b,c,d,...,\upsilon,x this paper
+evaluates \[
+\frac{a^n}{(a-b)(a-c)(a-d)...(a-x)}+\frac{b^n}{(b-a)(b-c)(b-d)...(b-x)}
++...+\frac{x^n}{(x-a)(x-b)(x-c)...(x-\upsilon)}. \] When $n \leq m-2$, the sum
+is 0, which Euler had already shown in sect. 1169 of his Institutiones calculi
+integralis, vol. I, E366. When $n=m-1$ the sum is $=1$. When $n \geq m$, then
+using Newton's identities Euler gets expressions in terms of sums of powers of
+the numbers a,b,c,d,...,\upsilon,x.
+  The notation used in this paper is confus(ing/ed), and indeed the editors of
+the Opera omnia made several corrections to the original publication. Near the
+end of the paper, ""... for each of them one searches for what the character
+will be..."" is the only reading of the sentence I can come up with.
+  Examples of a work that refers to this theorem is J.-P. Serre, Corps locaux,
+2nd ed., ch. III, sect. 6 (for $n \leq m-1$), and D. E. Knuth, The Art of
+Computer Programming, vol. 1, sect. 1.2.3, exercise 33.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 13:06:15 GMT""},{""version"":""v2"",""created"":""Mon, 3 Aug 2009 20:18:02 GMT""}]","2009-08-04"
+"math/0502426","Aivars Berzins","Aivars Berzins","The group of automorphisms of the category of free associative algebras",,,,,"math.RA",,"  In this paper, the problem formulated in [8] is solved. We prove, that the
+group of automorphisms of the category of free associative algebras is
+generated by semi-inner and mirror automorphisms
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 14:14:52 GMT""}]","2007-05-23"
+"math/0502427","Aivars Berzins","Aivars Berzins","The group of automorphisms of semigroup End",,,,,"math.AC",,"  In this paper is proved that the group of automorphisms of semigroup
+End(P[X]), if P is algebraically closed field, is generated by semi-inner
+automorphisms.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 14:20:49 GMT""}]","2007-05-23"
+"math/0502428","Hitoshi Murakami","Hitoshi Murakami","The colored Jones polynomials and the Alexander polynomial of the
+  figure-eight knot","13 pages","JP J. Geom. Topol. 2 (2007), 249--269",,,"math.GT",,"  The volume conjecture and its generalization state that the series of certain
+evaluations of the colored Jones polynomials of a knot would grow exponentially
+and its growth rate would be related to the volume of a three-manifold obtained
+by Dehn surgery along the knot. In this paper, we show that for the
+figure-eight knot the series converges in some cases and the limit equals the
+inverse of its Alexander polynomial.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 14:53:57 GMT""}]","2007-10-07"
+"nlin/0502044","Francesco Paparella","Francesco Paparella","Filling Gaps in Chaotic Time Series","14 pages (REVTeX preprint), 4 figures","Phys. Letters A, 346 (2005) 47-53.",,,"nlin.CD",,"  We propose a method for filling arbitrarily wide gaps in deterministic time
+series. Crucial to the method is the ability to apply Takens' theorem in order
+to reconstruct the dynamics underlying the time series. We introduce a
+functional to evaluate how compatible is a filling sequence of data with the
+reconstructed dynamics. An algorithm for minimizing the functional with a
+reasonable computational effort is then discussed.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 18:28:47 GMT""}]","2007-06-13"
+"nucl-th/0502057","Andrius Juodagalvis","A.Juodagalvis, I.Ragnarsson, and S.Aberg","The Cranked Nilsson-Strutinsky versus the Spherical Shell Model: A
+  Comparative Study of pf-Shell Nuclei","14 pages, 20 figures, submitted to Phys.Rev.C","Phys.Rev. C73 (2006) 044327","10.1103/PhysRevC.73.044327",,"nucl-th",,"  A comparative study is performed of a deformed mean field theory, represented
+by the cranked Nilsson-Strutinsky (CNS) model, and the spherical shell model.
+Energy spectra, occupation numbers, B(E2)-values, and spectroscopic quadrupole
+moments in the light pf shell nuclei are calculated in the two models and
+compared. The result is also compared to available experimental data which are
+generally well described by the shell model. Although the Nilsson-Strutinsky
+calculation does not include pairing, both the subshell occupation numbers and
+quadrupole properties are found to be rather similar in the two models. It is
+also shown that ``unpaired'' shell model calculations produce very similar
+energies as the CNS at all spins. The role of the pairing energy in the
+description of backbending and signature splitting in odd-mass nuclei is also
+discussed.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 19:59:07 GMT""}]","2009-11-11"
+"nucl-th/0502058","Masatsugu Isse","M. Isse (1), A. Ohnishi (1), N. Otuka (2), P. K. Sahu (3), Y. Nara (4)
+  ((1) Hokkaido Univ., (2) JAERI, (3) IOP, (4) Frankfurt Univ.)","Mean-Field Effects on Collective Flows in High-Energy Heavy-Ion
+  Collisions at 2-158A GeV energies","16 pages, 14 figures. Results and discussions are corrected","Phys.Rev. C72 (2005) 064908","10.1103/PhysRevC.72.064908",,"nucl-th",,"  Collective flows in heavy-ion collisions from AGS ($(2-11)A$ GeV) to SPS
+($(40,158)A$ GeV) energies are investigated in a nonequilibrium transport model
+with nuclear mean-field (MF). Sideward $<p_x>$, directed $v_1$, and elliptic
+flows $v_2$ are systematically studied with different assumptions on the
+nuclear equation of state (EOS). We find that momentum dependence in the
+nuclear MF is important for the understanding of the proton collective flows at
+AGS and SPS energies. Calculated results with momentum dependent MF
+qualitatively reproduce the experimental data of proton sideward, directed, and
+elliptic flows in a incident energy range of $(2-158)A$ GeV.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 15:16:35 GMT""},{""version"":""v2"",""created"":""Sun, 13 Mar 2005 10:12:11 GMT""},{""version"":""v3"",""created"":""Tue, 27 Sep 2005 14:51:31 GMT""}]","2016-09-08"
+"physics/0502102","Zaza Melikishvili G.","Z. V. Jaliashvili, T.D. Medoidze, Z. G. Melikishvili, K. M.
+  Mardaleishvili and J. J. Ramsden","Real time noninvasive cancer diagnostics","2 figures",,,,"physics.med-ph",,"  Laser illumination of tissue results in a characteristic fluorescence
+emission spectrum whose features depend on the type of tissue, viz., healthy,
+adenoma or malignant. Hence measurement of the fluorescence is potentially a
+rapid and reliable diagnostic method. We have applied the technique to thyroid
+tissues and found that judicious normalization of the fluorescence spectrum
+reveals a close correlation between spectral shape and tissue type. Hence the
+pathological state of the tissue can be unambiguously identified from the
+laser-induced fluorescence spectrum. The method is rapid and portable and is
+therefore eminently suitable for use during operations.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 07:53:47 GMT""}]","2007-05-23"
+"physics/0502103","Thomas E. Coan","Thomas Coan, Tiankuan Liu and Jingbo Ye","A Compact Apparatus for Muon Lifetime Measurement and Time Dilation
+  Demonstration in the Undergraduate Laboratory","5 pages, 2 figures","Am.J.Phys. 74 (2006) 161-164","10.1119/1.2135319",,"physics.ins-det physics.ed-ph",,"  We describe a compact apparatus that automatically measures the charge
+averaged lifetime of atmospheric muons in plastic scintillator using low-cost,
+low-power electronics and that measures the stopping rate of atmospheric muons
+as a function of altitude to demonstrate relativistic time dilation. The
+apparatus is designed for the advanced undergraduate physics laboratory and is
+suitable for field measurements.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 23:00:09 GMT""}]","2015-06-26"
+"physics/0502106","Burra Sidharth Gautam","B.G.Sidharth","Noncommutative spacetime effects and gravitation","8 pages, based on two papers accepted for publication in
+  Int.J.Mod.Phys.E",,,,"physics.gen-ph",,"  In recent years Quantum Superstrings and Quantum Gravity approaches have come
+to rely on non differenciable spacetime manifolds. These throw up a
+noncommutative spacetime geometry and we consider the origin of mass and a
+related modification of the Dirac equation in this context. This also throws
+some light on gravitation itself.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 02:27:23 GMT""}]","2007-05-23"
+"q-bio/0502020","Gavin E. Crooks","Gavin E. Crooks, Richard E. Green and Steven E. Brenner","Pairwise alignment incorporating dipeptide covariation",,"Bioinformatics 21 3704-3710 (2005)","10.1093/bioinformatics/bti616",,"q-bio.BM q-bio.PE",,"  Motivation: Standard algorithms for pairwise protein sequence alignment make
+the simplifying assumption that amino acid substitutions at neighboring sites
+are uncorrelated. This assumption allows implementation of fast algorithms for
+pairwise sequence alignment, but it ignores information that could conceivably
+increase the power of remote homolog detection. We examine the validity of this
+assumption by constructing extended substitution matrixes that encapsulate the
+observed correlations between neighboring sites, by developing an efficient and
+rigorous algorithm for pairwise protein sequence alignment that incorporates
+these local substitution correlations, and by assessing the ability of this
+algorithm to detect remote homologies. Results: Our analysis indicates that
+local correlations between substitutions are not strong on the average.
+Furthermore, incorporating local substitution correlations into pairwise
+alignment did not lead to a statistically significant improvement in remote
+homology detection. Therefore, the standard assumption that individual residues
+within protein sequences evolve independently of neighboring positions appears
+to be an efficient and appropriate approximation.
+","[{""version"":""v1"",""created"":""Sat, 19 Feb 2005 23:19:16 GMT""},{""version"":""v2"",""created"":""Thu, 28 Jul 2005 21:56:50 GMT""}]","2014-05-27"
+"quant-ph/0502122","Christian Lunkes","C. Lunkes, C. Brukner, V. Vedral","Natural multiparticle entanglement in a Fermi gas","Replaced with revised edition","Phys. Rev. Lett. 95, 030503 (2005)","10.1103/PhysRevLett.95.030503",,"quant-ph",,"  We investigate multipartite entanglement in a non-interacting fermion gas, as
+a function of fermion separation, starting from the many particle fermion
+density matrix. We prove that all multiparticle entanglement can be built only
+out of two-fermion entanglement. Although from the Pauli exclusion principle we
+would always expect entanglement to decrease with fermion distance, we
+surprisingly find the opposite effect for certain fermion configurations. The
+von Neumann entropy is found to be proportional to the volume for a large
+number of particles even when they are arbitrarily close to each other. We will
+illustrate our results using different configurations of two, three, and four
+fermions at zero temperature although all our results can be applied to any
+temperature and any number of particles.
+","[{""version"":""v1"",""created"":""Sun, 20 Feb 2005 12:32:44 GMT""},{""version"":""v2"",""created"":""Mon, 29 Aug 2005 16:33:14 GMT""}]","2009-11-11"

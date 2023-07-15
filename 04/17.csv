@@ -1,0 +1,361 @@
+"astro-ph/0504364","Craig J. Hogan","Craig J. Hogan","Discrete Quantum Spectrum of Observable Correlations from Inflation","10 pages, Latex",,,,"astro-ph gr-qc hep-th quant-ph",,"  The decoherence of quantum fluctuations into classical perturbations during
+inflation is discussed. A simple quantum mechanical argument, using a spatial
+particle wavefunction rather than a field description, shows that observable
+correlations from inflation must have a discrete spectrum, since they originate
+and freeze into the metric within a compact region. The number of discrete
+modes is estimated using a holographic bound on the number of degrees of
+freedom. The discreteness may be detectable in some models; for example, if
+there is a fundamental universal frequency spectrum, the inflationary
+gravitational wave background may be resolvable into discrete emission lines.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 21:14:39 GMT""},{""version"":""v2"",""created"":""Wed, 18 May 2005 03:08:32 GMT""}]","2007-05-23"
+"astro-ph/0504365","Marcelo J. Reboucas","M.J. Reboucas","A brief introduction to cosmic topology","14 pages, 5 figures. Short review of the topics addressed with
+  details in the lectures. To appear in the proc. of the XIth Brazilian School
+  of Cosmology and Gravitation, eds. M.Novelo and S.E. Perez Bergliaffa,
+  American Institute of Physics Conference Proceedings (2005)","Proc. XIth Brazilian School of Cosmology and Gravitation, AIP
+  Conference Proceedings, vol. 782, p.188-201. Eds.M. Novello and S.E. Perez
+  Bergliaffa. AIP, Melville, New York (2005)","10.1063/1.2032731",,"astro-ph gr-qc hep-th math-ph math.MP",,"  Whether we live in a spatially finite universe, and what its shape and size
+may be, are among the fundamental long-standing questions in cosmology. These
+questions of topological nature have become particularly topical, given the
+wealth of increasingly accurate astro-cosmological observations, especially the
+recent observations of the cosmic microwave background radiation. An overview
+of the basic context of cosmic topology, the detectability constraints from
+recent observations, as well as the main methods for its detection and some
+recent results are briefly presented.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 22:40:27 GMT""}]","2009-11-11"
+"cond-mat/0504406","Arezki Boudaoud","Thierry Mora (LPS), Arezki Boudaoud (LPS)","Buckling of swelling gels",,,"10.1140/epje/i2005-10124-5",,"cond-mat.soft",,"  The patterns arising from the differential swelling of gels are investigated
+experimentally and theoretically as a model for the differential growth of
+living tissues. Two geometries are considered: a thin strip of soft gel clamped
+to a stiff gel, and a thin corona of soft gel clamped to a disk of stiff gel.
+When the structure is immersed in water, the soft gel swells and bends out of
+plane leading to a wavy periodic pattern which wavelength is measured. The
+linear stability of the flat state is studied in the framework of linear
+elasticity using the equations for thin plates. The flat state is shown to
+become unstable to oscillations above a critical swelling rate and the computed
+wavelengths are in quantitative agreement with the experiment.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 18:15:11 GMT""}]","2009-11-11"
+"cond-mat/0504407","Nicholas Licata","Nicholas A. Licata, Alexei V. Tkachenko","Error-proof programmable self-assembly of DNA-nanoparticle clusters","6 pages, 4 figures, v2: substantially revised version, added journal
+  ref","Phys. Rev. E 74, 041406 (2006)","10.1103/PhysRevE.74.041406",,"cond-mat.soft cond-mat.mtrl-sci",,"  We study theoretically a new generic scheme of programmable self-assembly of
+nanoparticles into clusters of desired geometry. The problem is motivated by
+the feasibility of highly selective DNA-mediated interactions between colloidal
+particles. By analyzing both a simple generic model and a more realistic
+description of a DNA-colloidal system, we demonstrate that it is possible to
+suppress the glassy behavior of the system, and to make the self-assembly
+nearly error-proof. This regime requires a combination of stretchable
+interparticle linkers (e.g. sufficiently long DNA), and a soft repulsive
+potential. The jamming phase diagram and the error probability are computed for
+several types of clusters. The prospects for the experimental implementation of
+our scheme are also discussed. PACS numbers: 81.16.Dn, 87.14.Gg, 36.40.Ei
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 20:53:22 GMT""},{""version"":""v2"",""created"":""Mon, 15 May 2006 17:38:12 GMT""},{""version"":""v3"",""created"":""Fri, 18 Aug 2006 19:30:51 GMT""},{""version"":""v4"",""created"":""Fri, 18 Aug 2006 20:15:51 GMT""},{""version"":""v5"",""created"":""Tue, 27 Feb 2007 21:02:47 GMT""}]","2009-11-11"
+"cond-mat/0504408","Bruce N. Miller","Bruce N. Miller, Kenneth R. Yawn, and Bill Maier","Exactly Integrable Analogue of a One-dimensional Gravitating System","12 pages, 3 figures, revtex4",,"10.1016/j.physleta.2005.07.068",,"cond-mat.stat-mech",,"  Exchange symmetry in acceleration partitions the configuration space of an N
+particle, one-dimensional, gravitational system into N! equivalent cells. We
+take advantage of the resulting small angular extent of each cell to construct
+a related integrable version of the system that takes the form of a central
+force problem in N-1 dimensions. The properties of the latter, including the
+construction of trajectories, as well as several continuum limits, are
+developed. Dynamical simulation is employed to compare the two models. For a
+class of initial conditions, excellent agreement is observed.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 23:42:38 GMT""}]","2009-11-11"
+"cond-mat/0504409","Guo-Zhu Liu","Guo-Zhu Liu and Sen Hu","Stripe formation driven by space noncommutativity in quantum Hall
+  systems","4 pages, no figures","Phys. Lett. A 354, 482 (2006)","10.1016/j.physleta.2006.01.089",,"cond-mat.mes-hall cond-mat.str-el",,"  We propose that the transport anisotropy observed in half-filled high Landau
+levels ($N \geq 2$) is caused by the space noncommutativity effect, namely the
+Heisenberg uncertainty relation between the spatial coordinates of electrons.
+The stripe corresponds to a limit that one coordinate of a large number of
+particles is fixed at a certain value while its conjugate coordinate is
+completely uncertain. We make a renormalization group analysis and find that
+the noncommutativity effect is able to drive the stripe formation only at
+half-fillings $\nu = 9/2, 11/2, 13/2,$ etc., in agreement with experiments.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 07:07:30 GMT""}]","2009-11-11"
+"cond-mat/0504410","David Andelman","Yoav Tsori, Easan Sivaniah, David Andelman, Takeji Hashimoto","Orientational transitions in symmetric diblock copolymers on rough
+  surfaces","5 pages, 2 figures","Macromolecules 38, 7193 (2005)","10.1021/ma050806p",,"cond-mat.soft cond-mat.mtrl-sci",,"  We present a model addressing the orientation transition of symmetric block
+copolymers such as PS/PMMA on smooth and rough surfaces. The distortion free
+energy of parallel and perpendicular lamellar phases in contact with a rough
+solid surface is calculated as function of the surface roughness amplitude and
+wavelength, as well as the polymer lamellar periodicity (molecular weight). We
+find an analytical expression for the orientation transition. This expression
+is compared and agrees well with recent experiments done with six different
+polymer molecular weights and surface preparations.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 13:38:16 GMT""}]","2012-01-31"
+"cond-mat/0504411","Vladimir Dobrosavljevic","E. Miranda and V. Dobrosavljevic","Disorder-Driven Non-Fermi Liquid Behavior of Correlated Electrons","Final version, as published in the Reports on Progress in Physics","Rep. Prog. Phys. 68, 2337 (2005)","10.1088/0034-4885/68/10/R02",,"cond-mat.dis-nn cond-mat.str-el",,"  Systematic deviations from standard Fermi-liquid behavior have been widely
+observed and documented in several classes of strongly correlated metals. For
+many of these systems, mounting evidence is emerging that the anomalous
+behavior is most likely triggered by the interplay of quenched disorder and
+strong electronic correlations. In this review, we present a broad overview of
+such disorder-driven non-Fermi-liquid behavior, and discuss various examples
+where the anomalies have been studied in detail. We describe both their
+phenomenological aspects as observed in experiment, and the current theoretical
+scenarios that attempt to unravel their microscopic origin.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 15:18:07 GMT""},{""version"":""v2"",""created"":""Thu, 29 Sep 2005 18:02:40 GMT""}]","2007-05-23"
+"cs/0504078","Marcus Hutter","Marcus Hutter and Jan Poland","Adaptive Online Prediction by Following the Perturbed Leader","25 pages","Journal of Machine Learning Research 6 (2005) 639--660",,"IDSIA-10-05","cs.AI cs.LG",,"  When applying aggregating strategies to Prediction with Expert Advice, the
+learning rate must be adaptively tuned. The natural choice of
+sqrt(complexity/current loss) renders the analysis of Weighted Majority
+derivatives quite complicated. In particular, for arbitrary weights there have
+been no results proven so far. The analysis of the alternative ""Follow the
+Perturbed Leader"" (FPL) algorithm from Kalai & Vempala (2003) (based on
+Hannan's algorithm) is easier. We derive loss bounds for adaptive learning rate
+and both finite expert classes with uniform weights and countable expert
+classes with arbitrary weights. For the former setup, our loss bounds match the
+best known results so far, while for the latter our results are new.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 16:48:49 GMT""}]","2007-05-23"
+"gr-qc/0504073","Akinbo Ojo Dr","Akinbo Ojo","On a thermodynamic basis for inflationary cosmology","Arguments sharpened. Certain aspects elaborated in more detail and
+  some areas clarified in response to referees' comments. 35 pages, no figures",,,,"gr-qc",,"  Modifying the standard hot big bang model of cosmology with an inflationary
+event has been very successful in resolving most of the outstanding
+cosmological problems. The various inflationary mechanisms proposed depend on
+the production of expansion from exotic phenomena, false vacuum, scalar fields
+or other exotic particle behaviour within an environment of astronomically high
+energy, making such proposals relatively inaccessible for verification by
+experimental tests. Though descriptive of how space has been expanding, the
+models do not give a complete and consistent mathematical or physical
+explanation that compels space appearance and propels its expansion. Here we
+describe another mechanism for achieving exponential inflation based
+substantially on already tested physics and equations, particularly the
+thermodynamic equation, dS = dE/T and relate this to the creation event.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 16:51:30 GMT""},{""version"":""v2"",""created"":""Sun, 28 Aug 2005 19:33:17 GMT""}]","2007-05-23"
+"hep-ex/0504030","Ryosuke Itoh","R. Itoh, Y. Onuki, et al. (for the Belle Collaboration)","Studies of CP violation in B->J/psi K* decays","10 pages, 2 tables, 3 figures, submitted to PRL; Replaced with the
+  version resubmitted to PRL (Jul.13,2005)","Phys.Rev.Lett.95:091601,2005","10.1103/PhysRevLett.95.091601","KEK Preprint 2005-7","hep-ex",,"  CP violation in $B\to J/\psi K^*$ decays is studied using an angular analysis
+in a data sample of 253 fb$^{-1}$ recorded with the Belle detector at the KEKB
+$e^+e^-$ collider. The flavor separated measurements of the decay amplitudes
+indicate no evidence for direct CP violation. T-odd CP violation is studied
+using the asymmetries in triple product correlations, and the results are
+consistent with the Standard Model null predictions. The time-dependent angular
+analysis gives the following values of CP violating parameters: $\sin 2\phi_1 =
+0.24 \pm 0.31 \pm 0.05$ and $\cos 2\phi_1 = 0.56 \pm 0.79 \pm 0.11$.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 07:30:20 GMT""},{""version"":""v2"",""created"":""Wed, 13 Jul 2005 02:19:57 GMT""}]","2019-08-14"
+"hep-lat/0504014","Peter Crompton","P.R. Crompton","Asymptotics of the Infrared",,,,,"hep-lat",,"  We follow recent formulations of dimensionally reduced loop operators for
+quantum field theories and exact representations of probabilistic lattice
+dynamics to identify a new scheme for the evaluation of partition function
+zeroes, allowing for the explicit analysis of quantum critical phenomena. This
+new approach gives partition function zeroes from a factored quantum loop
+operator basis and, as we show, constitutes an effective mapping of the
+renormalization group $\beta$-function onto the noncommuting local operator
+basis of a countably finite Hilbert space. The Vafa-Witten theorem for
+CP-violation and related complex action problems of Euclidean Field theories
+are discussed, following recent treatments, and are shown to be natural
+consequences of the analyticity of the limiting distribution of these zeroes,
+and properties of vacuum regimes governed by a dominant quantum fluctuation in
+the vicinity of a renormalization group equation fixed point in the infrared.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 14:04:57 GMT""}]","2007-05-23"
+"hep-ph/0504140","Einan Gardi","Einan Gardi and Jeppe R. Andersen (Cambridge)","A New Approach to Inclusive Decay Spectra","Presented at the 40th Rencontres de Moriond ''QCD and Hadronic
+  Interactions'', La Thuile, Aosta Valley, Italy, March 12th to 19th, 2005; 9
+  pages, 7 figures",,,"Cavendish-HEP-05/06","hep-ph",,"  The main obstacle in describing inclusive decay spectra in QCD - which, in
+particular, limits the precision in extrapolating the measured \bar{B} \to X(s)
+gamma rate to the full phase space as well as in extracting |V_{ub}| from
+inclusive measurements of charmless semileptonic decays - is their sensitivity
+to the non-perturbative momentum distribution of the heavy quark in the meson.
+We show that, despite this sensitivity, resummed perturbation theory has high
+predictive power. Conventional Sudakov-resummed perturbation theory describing
+the decay of an on-shell heavy quark yields a divergent expansion. Detailed
+understanding of this divergence in terms of infrared renormalons has paved the
+way for making quantitative predictions. In particular, the leading renormalon
+ambiguity cancels out between the Sudakov factor and the quark pole mass. This
+cancellation requires renormalon resummation but involves no non-perturbative
+information. Additional effects due to the Fermi motion of the quark in the
+meson can be systematically taken into account through power corrections, which
+are only important near the physical endpoint. This way the moments of the
+\bar{B}\to X(s) gamma spectrum with experimentally-accessible cuts - which had
+been so far just parametrized - were recently computed by perturbative means.
+At Moriond these predictions were confronted with new data from BaBar.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 00:37:52 GMT""}]","2007-05-23"
+"hep-ph/0504141","Massimo Blasone Dr","M. Blasone, J. Magueijo, P. Pires Pacheco","Lorentz invariance for mixed neutrinos","8 pages, 4 figures. Presented at 2nd International Workshop DICE2004:
+  From Decoherence and Emergent Classicality to Emergent Quantum Mechanics,
+  Castello di Piombino, Tuscany, Italy, 1-4 Sep 2004","Braz.J.Phys.35:447-454,2005","10.1590/S0103-97332005000300014",,"hep-ph",,"  We show that a proper field theoretical treatment of mixed (Dirac) neutrinos
+leads to non-trivial dispersion relations for the flavor states. We analyze
+such a situation in the framework of the non-linear relativity schemes recently
+proposed by Magueijo and Smolin. We finally examine the experimental
+implications of our theoretical proposals by considering the spectrum and the
+end-point of beta decay in tritium.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 08:58:33 GMT""}]","2015-06-25"
+"hep-ph/0504142","David London","Seungwon Baek and David London","New-Physics Signals in B -> pi pi Decays","This paper has been withdrawn",,,"UdeM-GPP-TH-05-130","hep-ph",,"  This paper has been withdrawn by the authors, due to a mistake which
+invalidates the analysis. One can never detect the presence of I=0 new physics
+in B -> pi pi.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 15:21:39 GMT""},{""version"":""v2"",""created"":""Fri, 27 May 2005 15:49:09 GMT""}]","2007-05-23"
+"hep-th/0504138","Chuan-Tsung Chan","Chuan-Tsung Chan, Pei-Ming Ho, Jen-Chi Lee, Shunsuke Teraguchi, Yi
+  Yang","Solving all 4-point correlation functions for bosonic open string theory
+  in the high energy limit","30 pages, one figure, further typos corrected","Nucl.Phys.B725:352-382,2005","10.1016/j.nuclphysb.2005.07.018",,"hep-th",,"  We study the implication of decoupling zero-norm states in the high-energy
+limit, for the 26 dimensional bosonic open string theory. Infinitely many
+linear relations among 4-point functions are derived algebraically, and their
+unique solution is found. Equivalent results are also obtained by taking the
+high-energy limit of Virasoro constraints, and as an independent check, we
+compute all 4-point functions of 3 tachyons and an arbitrary massive state by
+saddle-point approximation.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 17:50:49 GMT""},{""version"":""v2"",""created"":""Fri, 22 Apr 2005 11:09:16 GMT""},{""version"":""v3"",""created"":""Sat, 2 Jul 2005 21:39:13 GMT""}]","2014-11-18"
+"hep-th/0504139","DaeKil Park","Eylee Jung, SungHoon Kim, D. K. Park","Condition for the Superradiance Modes in Higher-Dimensional Rotating
+  Black Holes with Multiple Angular Momentum Parameters","11 pages, no figure","Phys.Lett. B619 (2005) 347-351","10.1016/j.physletb.2005.06.012",,"hep-th",,"  The condition for the existence of the superradiance modes is derived for the
+incident scalar, electromagnetic and gravitational waves when the spacetime
+background is a higher-dimensional rotating black hole with multiple angular
+momentum parameters. The final expression of the condition is $0 < \omega <
+\sum_i m_i \Omega_i$, where $\Omega_i$ is an angular frequency of the black
+hole and, $\omega$ and $m_i$ are the energy of the incident wave and the $i$-th
+azimuthal quantum number. The physical implication of this condition in the
+context of the brane-world scenarios is discussed.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 19:03:58 GMT""}]","2009-11-11"
+"hep-th/0504140","Harold Blas","Harold Blas","Bosonized noncommutative bi-fundamental fermion and S-duality","18 pages, LaTex. References added. A general product $f(x-vt) \star
+  g(x-vt)$ has been considered in the conclusion section . Version to appear in
+  JHEP","JHEP 0506 (2005) 022","10.1088/1126-6708/2005/06/022",,"hep-th",,"  We perform the path-integral bosonization of the recently proposed
+noncommutative massive Thirring model (NCMT$_{1}$) [JHEP0503(2005)037]. This
+model presents two types of current-current interaction terms related to the
+bi-fundamental representation of the group U(1). Firstly, we address the
+bosonization of a bi-fundamental free Dirac fermion defined on a noncommutative
+(NC) Euclidean plane $\IR_{\theta}^{2}$. In this case we show that the fermion
+system is dual to two copies of the NC Wess-Zumino-Novikov-Witten model. Next,
+we apply the bosonization prescription to the NCMT$_{1}$ model living on
+$\IR_{\theta}^{2}$ and show that this model is equivalent to two-copies of the
+WZNW model and a two-field potential defined for scalar fields corresponding to
+the global $U(1)\times U(1)$ symmetry plus additional bosonized terms for the
+four fermion interactions. The bosonic sector resembles to the one proposed by
+Lechtenfeld et al. [Nucl. Phys. B705(2005)477] as the noncommutative
+sine-Gordon for a {\sl pair} of scalar fields. The bosonic and fermionic
+couplings are related by a strong-weak duality. We show that the couplings of
+the both sectors for some representations satisfy similar relationships up to
+relevant re-scalings, thus the NC bi-fundamental couplings are two times the
+corresponding ones of the NC fundamental (anti-fundamental) and eight times the
+couplings of the ordinary massive Thirring and sine-Gordon models.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 19:41:03 GMT""},{""version"":""v2"",""created"":""Mon, 13 Jun 2005 19:58:30 GMT""},{""version"":""v3"",""created"":""Wed, 15 Jun 2005 22:46:55 GMT""}]","2009-11-11"
+"math-ph/0504054","Grigorios Pavliotis","G. A. Pavliotis and A.M. Stuart","Analysis of White Noise Limits for Stochastic Systems with Two Fast
+  Relaxation Times","35 pages, 0 figures, To appear in SIAM J. MMS",,,,"math-ph math.MP",,"  In this paper we present a rigorous asymptotic analysis for stochastic
+systems with two fast relaxation times. The mathematical model analyzed in this
+paper consists of a Langevin equation for the particle motion with
+time-dependent force constructed through an infinite dimensional Gaussian noise
+process. We study the limit as the particle relaxation time as well as the
+correlation time of the noise tend to zero and we obtain the limiting equations
+under appropriate assumptions on the Gaussian noise. We show that the limiting
+equation depends on the relative magnitude of the two fast time scales of the
+system. In particular, we prove that in the case where the two relaxation times
+converge to zero at the same rate there is a drift correction, in addition to
+the limiting It\^{o} integral, which is not of Stratonovich type. If, on the
+other hand, the colored noise is smooth on the scale of particle relaxation
+then the drift correction is the standard Stratonovich correction. If the noise
+is rough on this scale then there is no drift correction. Strong (i.e.
+pathwise) techniques are used for the proof of the convergence theorems.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 16:21:06 GMT""}]","2007-05-23"
+"math/0504336","Daniel Goldston A","D. A. Goldston, C. Y. Yildirim","Small Gaps Between Primes I",,,,"AIM 2005-12","math.NT",,"  We use short divisor sums to approximate prime tuples and moments for primes
+in short intervals. By connecting these results to classical moment problems we
+are able to prove that a positive proportion of consecutive primes are within a
+quarter of the average spacing between primes.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 17:45:35 GMT""}]","2007-05-23"
+"math/0504337","Andriy Panasyuk","Andriy Panasyuk","Algebraic Nijenhuis operators and Kronecker Poisson pencils","10 pages, references added",,,,"math.DG",,"  We give a criterion of (micro-)kroneckerity of the linear Poisson pencil on
+$\frak{g}^*$ related to an algebraic Nijenhuis operator $N:\frak{g}\to
+\frak{g}$ on a finite-dimensional Lie algebra $\frak{g}$. As an application we
+get a series of examples of completely integrable systems on semisimple Lie
+algebras related to Borel subalgebras and a new proof of the complete
+integrability of the free rigid body system on $\frak{gl}_n$.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 20:02:24 GMT""},{""version"":""v2"",""created"":""Thu, 19 May 2005 13:06:51 GMT""}]","2007-05-23"
+"math/0504339","Hans Lindblad","Hans Lindblad","Well posedness for the motion of a compressible liquid with free surface
+  boundary","to appear in CMP",,"10.1007/s00220-005-1406-6",,"math.AP math-ph math.MP",,"  We study the motion of a compressible perfect liquid body in vacuum. This can
+be thought of as a model for the motion of the ocean or a star. The free
+surface moves with the velocity of the liquid and the pressure vanishes on the
+free surface. This leads to a free boundary problem for Euler's equations,
+where the regularity of the boundary enters to highest order. We prove local
+existence in Sobolev spaces assuming a ""physical condition"", related to the
+fact that the pressure of a fluid has to be positive.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 22:19:32 GMT""}]","2009-11-11"
+"math/0504340","Lars Winther Christensen","Lars Winther Christensen and Srikanth Iyengar","Gorenstein dimension of modules over homomorphisms","14 pp. To appear in J. Pure Appl. Algebra. Also available from
+  http://www.math.unl.edu/~lchristensen3/index.html",,,,"math.AC",,"  Given a homomorphism of commutative noetherian rings R --> S and an S-module
+N, it is proved that the Gorenstein flat dimension of N over R, when finite,
+may be computed locally over S. When, in addition, the homomorphism is local
+and N is finitely generated over S, the Gorenstein flat dimension equals sup{m
+| Tor^R_m(E,N) \noteq 0} where E is the injective hull of the residue field of
+R. This result is analogous to a theorem of Andr\'e on flat dimension.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 22:48:10 GMT""},{""version"":""v2"",""created"":""Fri, 18 Nov 2005 15:28:53 GMT""}]","2007-05-23"
+"math/0504341","Iwan Praton","Iwan Praton","The Erdos and Campbell-Staton conjectures about square packing","2 pages",,,,"math.MG",,"  Put n open non-overlapping squares inside a unit square, and let f(n) denote
+the maximum possible value of the sum of the side lengths of the n squares.
+Campbell and Staton, building on a question of Erdos, conjectured that
+f(k^2+2c+1)=k+c/k, where c is any integer and k\geq |c|. We show that if this
+conjecture is true for one value of c, then it is true for all values of c.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 23:25:52 GMT""}]","2007-05-23"
+"math/0504342","William Y. C. Chen","William Y. C. Chen, Toufik Mansour, Sherry H. F. Yan","Matchings Avoiding Partial Patterns","17 pages, 7 figures",,,,"math.CO",,"  We show that matchings avoiding certain partial patterns are counted by the
+3-Catalan numbers. We give a characterization of 12312-avoiding matchings in
+terms of restrictions on the corresponding oscillating tableaux. We also find a
+bijection between Schr\""oder paths without peaks at level one and matchings
+avoiding both patterns 12312 and 121323. Such objects are counted by the
+super-Catalan numbers or the little Schr\""{o}der numbers. A refinement of the
+super-Catalan numbers is obtained by fixing the number of crossings in the
+matchings. In the sense of Wilf-equivalence, we find that the patterns 12132,
+12123, 12321, 12231, 12213 are equivalent to 12312.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 04:38:34 GMT""}]","2007-05-23"
+"math/0504343","Alexander Premet","Alexander Premet","Enveloping algebras of Slodowy slices and the Joseph ideal","52 pages",,,,"math.RT math.RA",,"  We study general properties of quantisations of Slodowy slices and discuss in
+detail the case of the minimal nilpotent orbit. Associated varieties of related
+primitive ideals of U(g) are determined, in the general case, and the de
+Vos-van Driel conjecture on Verma modules for finite W-algebras is proved in
+the minimal nilpotent case.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 08:32:55 GMT""}]","2007-05-23"
+"math/0504344","Yehuda Pinchover","Yehuda Pinchover","On Davies' conjecture and strong ratio limit properties for the heat
+  kernel","11 pages",,,,"math.AP math.PR",,"  We study strong ratio limit properties and the exact long time asymptotics of
+the heat kernel of a general second-order parabolic operator which is defined
+on a noncompact Riemannian manifold.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 12:01:26 GMT""}]","2007-05-23"
+"math/0504345","Scott Baldridge","Scott Baldridge, Paul Kirk","On symplectic 4-manifolds with prescribed fundamental group","30 pages, 4 figures. New Version: Added examples covering free
+  abelian groups with odd rank",,,,"math.GT",,"  In this article we study the problem of minimizing $a\chi+b\sigma$ on the
+class of all symplectic 4--manifolds with prescribed fundamental group $G$
+($\chi$ is the Euler characteristic, $\sigma$ is the signature, and $a,b\in
+\BR$), focusing on the important cases $\chi$, $\chi+\sigma$ and
+$2\chi+3\sigma$. In certain situations we can derive lower bounds for these
+functions and describe symplectic 4-manifolds which are minimizers. We derive
+an upper bound for the minimum of $\chi$ and $\chi+\sigma$ in terms of the
+presentation of $G$.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 15:53:46 GMT""},{""version"":""v2"",""created"":""Tue, 3 May 2005 15:22:38 GMT""},{""version"":""v3"",""created"":""Tue, 7 Jun 2005 22:54:57 GMT""}]","2007-05-23"
+"nucl-th/0504054","Majid Modarres","M. Modarres, M. M. Yazdanpanah and F. Zolfagharpour","The effect of quark exchange in A=3 mirror nuclei and neutron/proton
+  structure functions ratio","16 pages, 5 figures","Eur.Phys.J. A28 (2006) 205-211","10.1140/epja/i2006-10039-3",,"nucl-th",,"  By using the quark-exchange formalism, realistic Faddeev wave functions and
+Fermi motion effect, we investigate deep inelastic electron scattering from A=3
+mirror nuclei in the deep-valence region. The initial valence quarks in put are
+taken from the GRV's next-to-leading order calculations on $F_2^p(x,Q^2)$ which
+give very good fit to the available data in the $(x,Q^2)$-plane. It is shown
+that the free neutron to proton structure functions ratio can be extracted from
+corresponding EMC ratios for $^3He$ and $^3H$ mirror nuclei by using
+self-consistent iteration procedure and the results are in good agreement with
+other theoretical models as well as present available experimental data,
+especially the one expected form the proposed 11 GeV Jefferson Laboratory.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 13:20:18 GMT""}]","2009-11-11"
+"nucl-th/0504055","Yu-Gang Ma","J. H. Chen, Y. G. Ma, G. L. Ma, X. Z. Cai, Z. J. He, H. Z. Huang, J.
+  L. Long, W. Q. Shen, C. Zhong, J. X. Zuo","Elliptic flow of $\phi$ meson and strange quark collectivity at RHIC","5 pages and 5 figures; accepted by Physical Review C","Physical Review C 74, 064902 (2006)","10.1103/PhysRevC.74.064902",,"nucl-th hep-ph",,"  Based on A Multi-Phase Transport (AMPT) model, we have studied the elliptic
+flow $v_{2}$ of $\phi$ mesons from reconstructed $K^{+}K^{-}$ decay channel at
+the top Relativistic Heavy Ion Collider energy at Brookhaven National
+Laboratory. The dependences of $v_{2}$ on transverse momentum $p_T$ and
+collision centrality are presented and the rescattering effect of $\phi$ mesons
+in the hadronic phase is also investigated. The results show that experimental
+measurement of $v_{2}$ for $\phi$ mesons can retain the early collision
+information before $\phi$ decays and that the $\phi$ $v_2$ value obeys the
+constituent quark number scaling which has been observed for other mesons and
+baryons. Our study indicates that the $\phi$ $v_2$ mostly reflects partonic
+level collectivity developed during the early stage of the nucleus-nucleus
+collision and the strange and light up/down quarks have developed similar
+angular anistropy properties at the hadronization.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 13:42:50 GMT""},{""version"":""v2"",""created"":""Mon, 23 Jan 2006 13:33:10 GMT""},{""version"":""v3"",""created"":""Sat, 14 Oct 2006 03:05:00 GMT""}]","2007-05-23"
+"quant-ph/0504124","Ricardo Antonio Mosna","Ricardo A. Mosna, Ian P. Hamilton and Luigi Delle Site","Quantum-classical correspondence via a deformed kinetic operator","LaTeX, 10 pages","J. Phys. A 38, 3869-3878 (2005)","10.1088/0305-4470/38/17/011",,"quant-ph math-ph math.MP",,"  We propose an approach to the quantum-classical correspondence based on a
+deformation of the momentum and kinetic operators of quantum mechanics. Making
+use of the factorization method, we construct classical versions of the
+momentum and kinetic operators which, in addition to the standard quantum
+expressions, contain terms that are functionals of the N-particle density. We
+show that this implementation of the quantum-classical correspondence is
+related to Witten's deformation of the exterior derivative and Laplacian,
+introduced in the context of supersymmetric quantum mechanics. The
+corresponding deformed action is also shown to be related to the Fisher
+information. Finally, we briefly consider the possible relevance of our
+approach to the construction of kinetic-energy density functionals.
+","[{""version"":""v1"",""created"":""Sat, 16 Apr 2005 20:00:54 GMT""}]","2007-05-23"
+"quant-ph/0504126","Zhang Zhanjun Dr.","Zhan-jun Zhang","Faithful and deterministic teleportation of an arbitrary $N$-qubit state
+  using and identifying only Bell states","Any suggestions, comments and helps are welcome!",,,,"quant-ph",,"  First, I show explicitly a scheme to {\it faithfully} and {\it
+deterministically} teleport an arbitrary 2-qubit state from Alice to Bob. In
+this scheme two same Bell states are sufficient for use. Bob can recover the
+2-qubit state by performing at most 4 single-qubit unitary operations
+conditioned on Alice's 4-bit classical public message corresponding to her two
+Bell-state measurement outcomes. Then I generalize the 2-qubit teleportation
+scheme to an aribitrary $N(N\ge 3)$-qubit state teleportation case by using $N$
+same Bell states. In the generalized scheme, Alice only needs to identify $N$
+Bell states after quantum swapping and then publish her measurement outcomes
+($2N$-bit classical message). Conditioned on Alice's $2N$-bit classical
+message, Bob only needs to perform at most $2N$ single-qubit unitary operations
+to {\it fully} recover the arbitrary state. By comparing with the newest
+relevant work [Phys. Rev. A{\bf 71}, 032303(2005)], the advantages of the
+present schemes are revealed, respectively.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 05:36:55 GMT""},{""version"":""v2"",""created"":""Wed, 20 Apr 2005 12:34:50 GMT""},{""version"":""v3"",""created"":""Mon, 25 Apr 2005 10:59:24 GMT""}]","2007-05-23"
+"quant-ph/0504127","Wieslaw Laskowski","Wieslaw Laskowski, Jian-Wei Pan, Tomasz Paterek, Marek Zukowski","""Local Instruction-Set Model for the Experiment of Pan et al"" of
+  Aschwanden, Philipp, Hess, and Barraza-Lopez Cannot Beat Quantum Models",,,,,"quant-ph",,"  We show the critique of the Pan et al experiment, given in quant-ph/0503108,
+is unfounded.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 13:25:35 GMT""}]","2007-05-23"
+"quant-ph/0504128","Khaled Saaidi","Khaled Saaidi","Wath Time an Incident Wave Packet is Reflected?","9 pages, latex, no figures",,,,"quant-ph",,"  We study the one dimensional time dependent Schr\""{o}dinger equation for a
+potential step with $E < V_0$. We obtain the wave is not instantaneously
+reflected, but for a few moment of time the wave packet penetrate into
+inaccessible classically region and then reflected. So it is shown that one can
+write the peneterated wave paket as superposition of incident and reflected
+wave packets like.
+","[{""version"":""v1"",""created"":""Sun, 17 Apr 2005 15:00:39 GMT""}]","2007-05-23"

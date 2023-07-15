@@ -1,0 +1,439 @@
+"astro-ph/0504044","Lola Balaguer-Nu\~nez","L. Balaguer-Nunez, C. Jordi and D. Galadi-Enriquez","uvby-Hbeta CCD photometry and membership segregation of the open cluster
+  NGC 2548; Gaps in the Main Sequence of open clusters","11 pages, 8 figures, A&A in press. Corrected typos on Table 6","A&A, 437 2 (2005) 457-466","10.1051/0004-6361:20041792",,"astro-ph",,"  Deep CCD photometry in the uvby-Hbeta intermediate-band system is presented
+for the cluster NGC 2548 (M 48). A complete membership analysis based on
+astrometric and photometric criteria is applied. The photometric analysis of a
+selected sample of stars yields a reddening value of E(b-y)=0.06\pm0.03, a
+distance modulus of V_0-M_V=9.3\pm0.5 (725 pc) and a metallicity of [Fe/H]=
+-0.24\pm0.27. Through isochrone fitting we find an age of log t = 8.6\pm0.1
+(400 Myr). Our optical photometry and JHK from 2MASS are combined to derive
+effective temperatures of cluster member stars. The effective temperature
+distribution along the main sequence of the cluster shows several gaps. A test
+to study the significance of these gaps in the main sequence of the HR diagram
+has been applied. The method is also applied to several other open clusters
+(Pleiades, Hyades, NGC 1817 and M 67) to construct a sequence of metallicities
+and ages. The comparison of the results of each cluster gives four gaps with
+high significance (one of them, centred at 4900 K, has not been previously
+reported).
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 17:27:16 GMT""},{""version"":""v2"",""created"":""Wed, 6 Apr 2005 11:02:33 GMT""}]","2015-12-24"
+"astro-ph/0504045","Yeinzon Rodriguez Garcia","David H. Lyth (1), Yeinzon Rodriguez (1 and 2) ((1) Department of
+  Physics Lancaster University, (2) Centro de Investigaciones Universidad
+  Antonio Narino)","The inflationary prediction for primordial non-gaussianity","Revtex Latex file. 4 pages, no figures. v4: minor changes, typos
+  corrected, references added and updated. Version published in Physical Review
+  Letters","Phys.Rev.Lett.95:121302,2005","10.1103/PhysRevLett.95.121302",,"astro-ph gr-qc hep-ph hep-th",,"  We extend the \delta N formalism so that it gives all of the stochastic
+properties of the primordial curvature perturbation \zeta if the initial field
+perturbations are gaussian. The calculation requires only the knowledge of some
+family of unperturbed universes. A formula is given for the normalisation \fnl
+of the bispectrum of \zeta, which is the main signal of non-gaussianity.
+Examples of the use of the formula are given, and its relation to cosmological
+perturbation theory is explained.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 21:44:44 GMT""},{""version"":""v2"",""created"":""Fri, 15 Jul 2005 11:03:47 GMT""},{""version"":""v3"",""created"":""Sat, 16 Jul 2005 14:51:59 GMT""},{""version"":""v4"",""created"":""Sun, 18 Sep 2005 14:16:25 GMT""}]","2011-06-08"
+"astro-ph/0504047","Leo Alberto Girardi","L. Girardi (1), M.A.T. Groenewegen (2), E. Hatziminaoglou (3,4), L. da
+  Costa (3), ((1) OATrieste, (2) Leuven, (3) ESO, (4) IAC)","Star counts in the Galaxy. Simulating from very deep to very shallow
+  photometric surveys with the TRILEGAL code","To appear in Astronomy & Astrophysics",,"10.1051/0004-6361:20042352",,"astro-ph",,"  We describe TRILEGAL, a new populations synthesis code for simulating the
+stellar photometry of any Galaxy field. The code attempts to improve upon
+several technical aspects of star count models, by: dealing with very complete
+input libraries of evolutionary tracks; using a stellar spectral library to
+simulate the photometry in any broad-band system; being very versatile allowing
+easy changes in the input libraries and in the description of all of its
+ingredients -- like the SFR, AMR, IMF, and geometry of Galaxy components. In a
+previous paper (Groenewegen et al. 2002), the code was first applied to
+describe the very deep star counts of the CDFS stellar catalogue. Here, we
+briefly describe its initial calibration using EIS-deep and DMS star counts,
+which are adequate samples to probe both the halo and the disc components of
+largest scale heights (oldest ages). We then present the changes in the
+calibration that were necessary to cope with some improvements in the model
+input data, and the use of more extensive photometry datasets: the relatively
+shallower 2MASS catalogue, which probes mostly the disc at intermediate ages,
+and the immediate solar neighbourhood as sampled by Hipparcos, which contains a
+somewhat larger fraction of younger stars than deeper surveys. Remarkably, the
+same model calibration can reproduce well the star counts in all the
+above-mentioned data sets, that span from the very deep magnitudes of CDFS
+(16<R<23) to the very shallow ones of Hipparcos (V<8). Significant deviations
+are found just for fields close to the Galactic Center and Plane, and for a
+single set of South Galactic Pole data. The TRILEGAL code is ready to use for
+the variety of wide-angle surveys in the optical/infrared that will become
+available in the coming years.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 21:00:48 GMT""}]","2009-11-10"
+"astro-ph/0504048","Sukanta Bose","Sukanta Bose","Search templates for stochastic gravitational-wave backgrounds","Revtex, 7 pages, 18 eps figures","Phys.Rev. D71 (2005) 082001","10.1103/PhysRevD.71.082001",,"astro-ph gr-qc",,"  Several earth-based gravitational-wave (GW) detectors are actively pursuing
+the quest for placing observational constraints on models that predict the
+behavior of a variety of astrophysical and cosmological sources. These sources
+span a wide gamut, ranging from hydrodynamic instabilities in neutron stars
+(such as r-modes) to particle production in the early universe. Signals from a
+subset of these sources are expected to appear in these detectors as stochastic
+GW backgrounds (SGWBs). The detection of these backgrounds will help us in
+characterizing their sources. Accounting for such a background will also be
+required by some detectors, such as the proposed space-based detector LISA, so
+that they can detect other GW signals. Here, we formulate the problem of
+constructing a bank of search templates that discretely span the parameter
+space of a generic SGWB. We apply it to the specific case of a class of
+cosmological SGWBs, known as the broken power-law models. We derive how the
+template density varies in their three-dimensional parameter space and show
+that for the LIGO 4km detector pair, with LIGO-I sensitivities, about a few
+hundred templates will suffice to detect such a background while incurring a
+loss in signal-to-noise ratio of no more than 3%.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 23:41:15 GMT""}]","2009-11-10"
+"astro-ph/0504049","Lo\""ic Chevallier","L. Chevallier, and B. Rutily","Exact solution of the standard transfer problem in a stellar atmosphere","23 pages, 1 figure","J.Quant.Spectrosc.Radiat.Trans. 91 (2005) 373-391","10.1016/j.jqsrt.2004.05.065",,"astro-ph",,"  We come back to the analytical solution of the standard transfer problem in a
+stellar atmosphere. It consists in solving the radiative transfer equation in a
+homogeneous and isothermal plane-parallel atmosphere, with light scattering
+taken as isotropic and monochromatic. The literature on the subject is reviewed
+and the existing solution in a finite slab is improved thanks to the
+introduction of non classical auxiliary functions. Eleven-figure tables of the
+solution are given for typical values of the input parameters currently met in
+stellar atmospheres.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 13:59:17 GMT""}]","2007-05-23"
+"astro-ph/0504050","Javier Gorosabel","J. Gorosabel (1,2), J.P.U. Fynbo (3), A. Fruchter (2), A. Levan (4),
+  J. Hjorth (3), P. Nugent (5), A.J. Castro-Tirado (1), J. M. Castro Cer\'on
+  (2,3), J. Rhoads (2), D. Bersier (2), I. Burud (2) ((1) IAA-CSIC, (2) STScI,
+  (3) NBI, (4) U. of Leicester, (5) LBNL)","A possible bright blue SN in the afterglow of GRB 020305","Accepted for publication in A&A. 8 pages, 5 figures","Astron.Astrophys.437:411-418,2005","10.1051/0004-6361:20052783",,"astro-ph",,"  We report on ground-based and HST(+STIS) imaging of the afterglow and host
+galaxy of the Gamma-Ray Burst (GRB) of March 5 2002. The GRB occurred in a
+R=25.17+/-0.14 galaxy, which apparently is part of an interacting system. The
+lightcurve of the optical afterglow shows a rebrightening, or at least a
+plateau, 12--16 days after the gamma-ray event. UBVRIK' multi-band imaging of
+the afterglow ~12 days after the GRB reveals a blue spectral energy
+distribution (SED). The SED is consistent with a power-law with a spectral
+index of \beta=-0.63+/-0.16, but there is tentative evidence for deviations
+away from a power-law. Unfortunately, a spectroscopic redshift has not been
+secured for GRB020305. From the SED we impose a redshift upper limit of z ~<
+2.8, hence excluding the pseudo redshift of 4.6 reported for this burst. We
+discuss the possibilities for explaining the lightcurve, SED and host galaxy
+properties for GRB 020305. The most natural interpretation of the lightcurve
+and the SED is an associated supernova (SN). Our data can not precisely
+determine the redshift of the GRB. The most favoured explanation is a low
+redshift (z~0.2) SN, but a higher redshift (z>0.5) SN can not be excluded. We
+also discuss less likely scenarios not based on SNe, like a burst occurring in
+a z=2.5 galaxy with an extinction curve similar to that of the Milky Way.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 07:33:48 GMT""}]","2008-11-26"
+"astro-ph/0504051","Riccardo Scarpa","Riccardo Scarpa","Testing MOND with Ultra-Compact Dwarf Galaxies","Two pages. Submitted for publication to MNRAS",,,,"astro-ph",,"  The properties of the recently discovered Ultra-Compact Dwarf Galaxies (UCDs)
+show that their internal acceleration of gravity is everywhere above a0, the
+MOdified Newtonian Dynamics (MOND) constant of gravity. MOND therefore makes
+the strong prediction that no mass discrepancy should be observed for this
+class of objects. This is confirmed by the few UCDs for which virial masses
+were derived. We argue that UCD galaxies represent a suitable test-bench for
+the theory, in the sense that even a single UCD galaxy showing evidence for
+dark matter would seriously question the validity of MOND.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 10:51:05 GMT""}]","2007-05-23"
+"astro-ph/0504052","Dong Xu","D. Xu","A New Relation between GRB Rest-Frame Spectra and Energetics and Its
+  Utility on Cosmology","10 pages, 1 table, 2 figures, GRB041006 added, the data about
+  GRB050525a updated, and main conclusions unchanged; the GRB dataset is also
+  available at http://astronomy.nju.edu.cn/~xud/",,,,"astro-ph",,"  We investigate the well-measured spectral and energetic properties of 20
+gamma-ray bursts (GRBs) in their cosmological rest frames. We find a tight
+relation between the isotropic-equivalent gamma-ray energy Eiso, the local peak
+energy E'p of the \nu F_{\nu} spectrum, and the local break time t'b of the GRB
+afterglow light curve, which reads Eiso*t'b\propto E'p^{1.95\pm0.08}
+(\chi^2_\nu=1.40; Omega_M=0.27, Omega_Lambda=0.73). Such a power-law relation
+can be understood via the high-energy radiation processes for the GRB prompt
+emission accompanying the beaming effects. We then consider this relation as an
+intrinsic one for the observed GRB sample, and obtain a constraint on the mass
+density Omega_M=0.24^{+0.16}_{-0.12} (1\sigma) for a flat Lambda-CDM universe,
+and a \chi^2_{dof}=1.33 for Omega_M\approx0.3 and Omega_Lambda\approx0.7.
+Ongoing GRB observations in the Swift era are expected to confirm this relation
+and make its cosmological utility progress much.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 11:02:35 GMT""},{""version"":""v2"",""created"":""Fri, 24 Jun 2005 11:41:41 GMT""},{""version"":""v3"",""created"":""Thu, 4 Aug 2005 10:24:56 GMT""}]","2007-05-23"
+"cond-mat/0504040","Karsten Held","R. Arita and K. Held","Orbital-selective Mott-Hubbard transition in the two-band Hubbard model","4 pages, 3 figures; 2nd version as published in Phys. Rev. B (R);
+  minor corrections, putting more emphasis on differences in spectra when
+  comparing SU(2) and Ising Hund's exchange","Phys. Rev. B 72, 201102(R) (2005)","10.1103/PhysRevB.72.201102",,"cond-mat.stat-mech",,"  Recent advances in the field of quantum Monte Carlo simulations for impurity
+problems allow --within dynamical mean field theory-- for a more thorough
+investigation of the two-band Hubbard model with narrow/wide band and
+SU(2)-symmetric Hund's exchange. The nature of this transition has been
+controversial, and we establish that an orbital-selective Mott-Hubbard
+transition exists. Thereby, the wide band still shows metallic behavior after
+the narrow band became insulating -not a pseudogap as for an Ising Hund's
+exchange. The coexistence of two solutions with metallic wide band and
+insulating or metallic narrow band indicates, in general, first-order
+transitions.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 18:50:03 GMT""},{""version"":""v2"",""created"":""Fri, 27 Jan 2006 12:44:28 GMT""}]","2007-05-23"
+"cond-mat/0504041","Alexander G. Abanov","Alexander G. Abanov and Paul B. Wiegmann","Quantum Hydrodynamics, Quantum Benjamin-Ono Equation, and Calogero Model","5 pages, 1 figure","Phys.Rev.Lett. 95 (2005) 076402","10.1103/PhysRevLett.95.076402",,"cond-mat.str-el hep-th math-ph math.MP nlin.SI",,"  Collective field theory for Calogero model represents particles with
+fractional statistics in terms of hydrodynamic modes -- density and velocity
+fields. We show that the quantum hydrodynamics of this model can be written as
+a single evolution equation on a real holomorphic Bose field -- quantum
+integrable Benjamin-Ono equation. It renders tools of integrable systems to
+studies of nonlinear dynamics of 1D quantum liquids.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 15:14:33 GMT""}]","2009-11-11"
+"cond-mat/0504051","Shoji Ikeda","Jun Hayakawa, Shoji Ikeda, Fumihiro Matsukura, Hiromasa Takahashi and
+  Hideo Ohno","Dependence of Giant Tunnel Magnetoresistance of Sputtered
+  CoFeB/MgO/CoFeB Magnetic Tunnel Junctions on MgO Barrier Thickness and
+  Annealing Temperatur","12 pages, 5 figures","Japanese Journal of Applied Physics Vol. 44, No. 19, 2005,
+  pp.L587-L589.","10.1143/JJAP.44.L587",,"cond-mat.other cond-mat.mtrl-sci",,"  We investigated the dependence of giant tunnel magnetoresistance (TMR) on the
+thickness of an MgO barrier and on the annealing temperature of sputtered
+CoFeB/MgO/CoFeB magnetic tunnel junctions deposited on SiO2/Si wafers. The
+resistance-area product exponentially increases with MgO thickness, indicating
+that the quality of MgO barriers is high in the investigated thickness range of
+1.15-2.4 nm. High-resolution transmission electron microscope images show that
+annealing at 375 C results in the formation of crystalline CoFeB/MgO/CoFeB
+structures, even though CoFeB electrodes are amorphous in the as-sputtered
+state. The TMR ratio increases with annealing temperature and is as high as
+260% at room temperature and 403% at 5 K.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 01:33:55 GMT""}]","2009-11-11"
+"cond-mat/0504052","Takashi Hotta","Takashi Hotta","Microscopic Approach to Magnetism and Superconductivity of $f$-Electron
+  Systems with Filled Skutterudite Structure","14 pages, 11 figures, Typeset with jpsj2.cls","J. Phys. Soc. Jpn. 74, 1275 (2005)","10.1143/JPSJ.74.1275",,"cond-mat.str-el",,"  In order to gain a deep insight into $f$-electron properties of filled
+skutterudite compounds from a microscopic viewpoint, we investigate the
+multiorbital Anderson model including Coulomb interactions, spin-orbit
+coupling, and crystalline electric field effect. For each case of
+$n$=1$\sim$13, where $n$ is the number of $f$ electrons per rare-earth ion, the
+model is analyzed by using the numerical renormalization group (NRG) method to
+evaluate magnetic susceptibility and entropy of $f$ electron. In order to make
+further step to construct a simplified model which can be treated even in a
+periodic system, we also analyze the Anderson model constructed based on the
+$j$-$j$ coupling scheme by using the NRG method. Then, we construct an orbital
+degenerate Hubbard model based on the $j$-$j$ coupling scheme to investigate
+the mechanism of superconductivity of filled skutterudites. In the 2-site
+model, we carefully evaluate the superconducting pair susceptibility for the
+case of $n$=2 and find that the susceptibility for off-site Cooper pair is
+clearly enhanced only in a transition region in which the singlet and triplet
+ground states are interchanged.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 06:29:52 GMT""}]","2009-11-11"
+"cond-mat/0504054","Raffaele Resta","Raffaele Resta","Electron Localization in the Quantum-Hall Regime","Slightly edited from previous version","Phys. Rev. Lett. 95, 196805 (2005)","10.1103/PhysRevLett.95.196805",,"cond-mat.mes-hall cond-mat.mtrl-sci",,"  The theory of the insulating state discriminates between insulators and
+metals by means of a localization tensor, which is finite in insulators and
+divergent in metals. In absence of time-reversal symmetry, this same tensor
+acquires an offdiagonal imaginary part, proportional to the dc transverse
+conductivity, leading to quantization of the latter in two-dimensional systems.
+I provide evidence that electron localization--in the above sense--is the
+common cause for both vanishing of the dc longitudinal conductivity and
+quantization of the transverse one in quantum-Hall fluids.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 15:00:45 GMT""},{""version"":""v2"",""created"":""Thu, 10 Nov 2005 15:21:01 GMT""}]","2009-11-11"
+"cs/0504004","Henning Bostelmann","Henning Bostelmann","Statistical analysis of quality measures for mobile ad hoc networks","Master's thesis; 78 pages, 10 figures",,,,"cs.NI cs.DM",,"  How can the quality of a mobile ad hoc network (MANET) be quantified? This
+work aims at an answer based on the lower network layers, i.e. on connectivity
+between the wireless nodes, using statistical methods. A number of different
+quality measures are introduced and classified according to their scaling
+behaviour. They are analysed in a statistical model of a 1-dimensional MANET
+system (corresponding e.g. to cars on a road). Neglecting boundary effects, the
+model turns out to be exactly solvable, so that explicit analytical results for
+the quality levels can be obtained both at fixed system size and in the limit
+of large systems. In particular, this improves estimates known in the
+literature for the probability of connectedness of 1-dimensional MANETs.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 23:19:43 GMT""}]","2007-05-23"
+"cs/0504005","Boris Ryabko","Boris Ryabko, Jaakko Astola, Karen Egiazarian","Fast Codes for Large Alphabets","published",,,,"cs.IT math.IT",,"  We address the problem of constructing a fast lossless code in the case when
+the source alphabet is large. The main idea of the new scheme may be described
+as follows. We group letters with small probabilities in subsets (acting as
+super letters) and use time consuming coding for these subsets only, whereas
+letters in the subsets have the same code length and therefore can be coded
+fast. The described scheme can be applied to sources with known and unknown
+statistics.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 04:09:27 GMT""}]","2007-07-13"
+"cs/0504006","Boris Ryabko","B. Ya. Ryabko, V.A. Monarev","Using Information Theory Approach to Randomness Testing","Journal of Statistical Planning and Inference,2005, (accepted)",,,,"cs.IT math.IT",,"  We address the problem of detecting deviations of binary sequence from
+randomness,which is very important for random number (RNG) and pseudorandom
+number generators (PRNG). Namely, we consider a null hypothesis $H_0$ that a
+given bit sequence is generated by Bernoulli source with equal probabilities of
+0 and 1 and the alternative hypothesis $H_1$ that the sequence is generated by
+a stationary and ergodic source which differs from the source under $H_0$. We
+show that data compression methods can be used as a basis for such testing and
+describe two new tests for randomness, which are based on ideas of universal
+coding. Known statistical tests and suggested ones are applied for testing
+PRNGs. Those experiments show that the power of the new tests is greater than
+of many known algorithms.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 06:39:27 GMT""}]","2007-07-13"
+"cs/0504007","Vassilis Prevelakis","David Michael Turner, Vassilis Prevelakis, Angelos D. Keromytis","The Bandwidth Exchange Architecture","8 pages, 6 figures",,,"DU-CS-05-03","cs.NI cs.CR",,"  New applications for the Internet such as video on demand, grid computing
+etc. depend on the availability of high bandwidth connections with acceptable
+Quality of Service (QoS). There appears to be, therefore, a requirement for a
+market where bandwidth-related transactions can take place. For this market to
+be effective, it must be efficient for both the provider (seller) and the user
+(buyer) of the bandwidth. This implies that: (a) the buyer must have a wide
+choice of providers that operate in a competitive environment, (b) the seller
+must be assured that a QoS transaction will be paid by the customer, and (c)
+the QoS transaction establishment must have low overheads so that it may be
+used by individual customers without a significant burden to the provider.
+  In order to satisfy these requirements, we propose a framework that allows
+customers to purchase bandwidth using an open market where providers advertise
+links and capacities and customers bid for these services. The model is close
+to that of a commodities market that offers both advance bookings (futures) and
+a spot market. We explore the mechanisms that can support such a model.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 08:06:16 GMT""}]","2009-09-29"
+"gr-qc/0504010","Andrew Randono","Andrew Randono","A Generalization of the Kodama State for Arbitrary Values of the Immirzi
+  Parameter","16 pages",,,,"gr-qc",,"  The Kodama State for Lorentzian gravity presupposes a particular value for
+the Immirzi-parameter, namely $\beta=-i$. However, the derivation of black hole
+entropy in Loop Quantum Gravity suggests that the Immirzi parameter is a fixed
+value whose magnitude is on the order of unity but larger than one. Since the
+Kodama state has de-Sitter spacetime as its classical limit, to get the proper
+radiation temperature, the Kodama state should be extended to incorporate a
+more physical value for $\beta$. Thus, we present an extension of the Kodama
+state for arbitrary values of the Immirzi parameter, $\beta$, that reduces to
+the ordinary Chern-Simons state for the particular value $\beta=-i$. The state
+for real values of $\beta$ is free of several of the outstanding problems that
+cast doubts on the original Kodama state as a ground state for quantum general
+relativity. We show that for real values of $\beta$, the state is invariant
+under large gauge transformations, it is CPT invariant (but not CP invariant),
+and it is expected to be delta-function normalizable with respect to the
+kinematical inner product. To aid in the construction, we first present a
+general method for solving the Hamiltonian constraint for imaginary values of
+$\beta$ that allows one to use the simpler self-dual and anti-self-dual forms
+of the constraint as an intermediate step.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 23:48:41 GMT""}]","2007-05-23"
+"hep-ph/0504013","Erhan Iltan","E. O. Iltan","The radiative lepton flavor violating decays in the split fermion
+  scenario in the two Higgs doublet model","19 pages, 7 Figures","Mod.Phys.Lett.A22:819-833,2007","10.1142/S0217732307021238",,"hep-ph",,"  We study the branching ratios of the lepton flavor violating processes \mu ->
+e \gamma, \tau -> e \gamma and \tau -> \mu\gamma in the split fermion scenario,
+in the framework of the two Higgs doublet model. We observe that the branching
+ratios are relatively more sensitive to the compactification scale and the
+Gaussian widths of the leptons in the extra dimensions, for two extra
+dimensions and especially for the \tau -> \mu \gamma decay.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 11:17:14 GMT""},{""version"":""v2"",""created"":""Mon, 24 Jul 2006 10:44:36 GMT""},{""version"":""v3"",""created"":""Wed, 24 Jan 2007 11:42:13 GMT""}]","2008-11-26"
+"hep-ph/0504014","Jungil Lee","Geoffrey T. Bodwin (Argonne), Eric Braaten (Ohio-State), Jungil Lee
+  (Korea U.)","Comparison of the color-evaporation model and the NRQCD factorization
+  approach in charmonium production","26 pages, 6 figures, 7 tables, Some changes of emphasis in the
+  conclusions, additional discussion of theoretical uncertainties, minor
+  revisions and corrections, version to be published in Physical Review D","Phys.Rev. D72 (2005) 014004","10.1103/PhysRevD.72.014004","ANL-HEP-PR-05-19","hep-ph",,"  We compare the color-evaporation model (CEM) and nonrelativistic QCD (NRQCD)
+factorization predictions for inclusive quarkonium production. Using the NRQCD
+factorization formulas for quarkonium production and for perturbative QQ-bar
+production, we deduce relationships that are implied by the CEM between the
+nonperturbative NRQCD matrix elements that appear in the factorization formula
+for quarkonium production. These relationships are at odds with the
+phenomenological values of the matrix elements that have been extracted from
+the Tevatron data for charmonium production at large transverse momentum. A
+direct comparison of the CEM and NRQCD factorization predictions with the CDF
+charmonium production data reveals that the CEM fits to the data are generally
+unsatisfactory, while the NRQCD factorization fits are generally compatible
+with the data. The inclusion of k_T smearing improves the CEM fits
+substantially, but significant incompatibilities remain. The NRQCD
+factorization fits to the chi_c data indicate that multiple gluon radiation is
+an essential ingredient in obtaining the correct shape of the cross section as
+a function of p_T.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 12:30:47 GMT""},{""version"":""v2"",""created"":""Sun, 1 May 2005 14:15:34 GMT""},{""version"":""v3"",""created"":""Wed, 6 Jul 2005 09:51:07 GMT""}]","2009-11-11"
+"hep-th/0504014","Pavlos Pasipoularides","K. Farakos and P. Pasipoularides","Gravity-induced instability and gauge field localization","12 pages,4 figures, minor corrections, references added","Phys.Lett. B621 (2005) 224-232","10.1016/j.physletb.2005.06.058",,"hep-th hep-ph",,"  The spectrum of a massless bulk scalar field \Phi, with a possible
+interaction term of the form -\xi R \Phi^{2}, is investigated in the case of
+RS-geometry [1]. We show that the zero mode for \xi=0, turns into a tachyon
+mode, in the case of a nonzero negative value of \xi (\xi<0). As we see, the
+existence of the tachyon mode destabilizes the \Phi=0 vacuum, against a new
+stable vacuum with nonzero \Phi near the brane, and zero in the bulk. By using
+this result, we can construct a simple model for the gauge field localization,
+according to the philosophy of Dvali and Shifman (Higgs phase on the brane,
+confinement in the bulk).
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 05:14:23 GMT""},{""version"":""v2"",""created"":""Fri, 8 Apr 2005 10:56:31 GMT""},{""version"":""v3"",""created"":""Sat, 4 Jun 2005 18:03:35 GMT""}]","2009-11-11"
+"hep-th/0504015","Mohammad Reza Setare","M R Setare","Area Spectrum of Near Extremal Black Branes from Quasi-normal Modes","8 pages, no figures, accepted for publication in IJTP","Int.J.Theor.Phys. 44 (2005) 1365-1371","10.1007/s10773-005-4771-1",,"hep-th",,"  Motivated by the recent interest in quantization of black hole area spectrum,
+we consider the area spectrum of near extremal black $3-$branes. Based on the
+proposal by Bekenstein and others that the black hole area spectrum is discrete
+and equally spaced, we implement Kunstatter's method to derive the area
+spectrum for the near extremal black $3-$branes. The result for the area of
+event horizon although discrete, is not equally spaced.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 14:06:01 GMT""}]","2015-06-26"
+"hep-th/0504016","Alon Faraggi","Alon E. Faraggi","Moduli Fixing in Realistic String Vacua","31 pages. Standard LaTeX. Additional section on twisted moduli. typos
+  corrected. Revised version to appear in NPB","Nucl.Phys.B728:83-108,2005","10.1016/j.nuclphysb.2005.08.028","LTH-646; OUTP-05-03P","hep-th hep-ph",,"  I illustrate the existence of quasi-realistic heterotic-string models in
+which all the untwisted Kaehler and complex structure moduli, as well as all of
+the twisted sectors moduli, are projected out by the generalized GSO
+projections. I discuss the conditions and characteristics of the models that
+produce this result. The existence of such models offers a novel perspective on
+the realization of extra dimensions in string theory. In this view, while the
+geometrical picture provides a useful mean to classify string vacua, in the
+phenomenologically viable cases there is no physical realization of extra
+dimensions. The models under consideration correspond to Z2 X Z2 orbifolds of
+six dimensional tori, plus additional identifications by internal shifts and
+twists. The special property of the Z2 X Z2 orbifold is that it may act on the
+compactified dimensions as real, rather than complex, dimensions. This property
+enables an asymmetric projection on all six internal coordinates, which enables
+the projection of all the untwisted Kaehler and complex structure moduli.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 15:50:35 GMT""},{""version"":""v2"",""created"":""Tue, 23 Aug 2005 13:09:07 GMT""}]","2011-07-19"
+"math/0504034","Alexander G. Ramm","A.G.Ramm","Discrete L'Hospital's rule",,,,,"math.CA",,"  The aim is to formulate a discrete analog of L'Hospital's rule and describe
+some of its applications. While the usual L'Hospital's rule is very well known,
+its discrete analog apparently was not in the literature. Since the
+L'Hospital's rule proved to be very useful in many applications, one may think
+that its discrete analog will also be useful. ======================== This
+paper is withdrawn: I have learned that the result is known.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 15:13:44 GMT""},{""version"":""v2"",""created"":""Tue, 5 Apr 2005 14:33:24 GMT""},{""version"":""v3"",""created"":""Fri, 8 Apr 2005 13:09:30 GMT""}]","2007-05-23"
+"math/0504037","Robin Houston","Robin Houston, Dominic Hughes and Andrea Schalk","Modelling Linear Logic Without Units (Preliminary Results)","23 pages",,,,"math.CT cs.LO math.LO",,"  We describe a notion of categorical model for unitless fragments of
+(multiplicative) linear logic. The basic definition uses promonoidal
+categories, and we also give an equivalent elementary axiomatisation.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 09:55:06 GMT""}]","2013-05-13"
+"math/0504038","Brudnyi Alexander","Alexander Brudnyi","Integral Representations of Holomorphic Functions on Coverings of
+  Pseudoconvex Domains in Stein Manifolds","18 pages",,,,"math.CV math.FA",,"  The classical integral representation formulas for holomorphic functions
+defined on pseudoconvex domains in Stein manifolds play an important role in
+the constructive theory of functions of several complex variables. In this
+paper we construct similar formulas for cetain classes of holomorphic functions
+defined on coverings of such domains.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 21:13:22 GMT""}]","2007-05-23"
+"math/0504039","Soren Eilers","Bergfinnur Durhuus and Soren Eilers","On the entropy of LEGO","13 pages, 7 figures. Revised version: Minor corrections, page 9",,,"CPH-SYM-00","math.CO",,"  We propose the further study of the rate of growth of the number of
+contiguous buildings which may be made from n LEGO blocks of the same size and
+color. Specializing to blocks of dimension 2x4 we give upper and lower bounds,
+and speculate on the true value.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 23:25:19 GMT""},{""version"":""v2"",""created"":""Tue, 12 Apr 2005 06:50:11 GMT""}]","2010-09-16"
+"math/0504040","Frank Sottile","Adriana Ortiz-Rodr\'iguez, Frank Sottile","Real Hessian Curves","Related web page at http://www.math.tamu.edu/~sottile/stories/Hessian
+  Exposition improved, new example found","Bolet\'in de la Sociedad Mathem\'atica Mexicana, Volume 13 Number
+  3 (2007), 157--166",,,"math.AG",,"  We give some real polynomials in two variables of degrees 4, 5, and 6 whose
+hessian curves have more connected components than had been known previously.
+In particular, we give a quartic polynomial whose hessian curve has 4 compact
+connected components (ovals), a quintic whose hessian curve has 8 ovals, and a
+sextic whose hessian curve has 11 ovals.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 03:22:40 GMT""},{""version"":""v2"",""created"":""Thu, 18 May 2006 07:29:07 GMT""}]","2016-08-16"
+"math/0504041","Volodymyr Mazorchuk","Volodymyr Mazorchuk","A twisted approach to Kostant's problem","16 pages","Glasg. Math. J. 47 (2005), no. 3, 549-561",,,"math.RT",,"  We use Arkhipov's twisting functors to show that the universal enveloping
+algebra of a semi-simple complex finite-dimensional Lie algebra surjects onto
+the space of ad-finite endomorphisms of the simple highest weight module
+$L(\lambda)$, whose highest weight is associated (in the natural way) with a
+subset of simple roots and a simple root in this subset. This is a new step
+towards a complete answer to a classical question of Kostant. We also show how
+one can use the twisting functors to reprove the classical results related to
+this question.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 09:24:58 GMT""}]","2010-04-02"
+"math/0504042","Emmanuel Kowalski","Emmanuel Kowalski","Weil numbers generated by other Weil numbers and torsion fields of
+  abelian varieties","13 pages",,,,"math.NT",,"  Using properties of the Frobenius eigenvalues, we show that, in a precise
+sense, ``most'' isomorphism classes of (principally polarized) simple abelian
+varieties over a finite field are characterized up to isogeny by the sequence
+of their division fields, and a similar result for ``most'' isogeny classes.
+Some global cases are also treated.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 09:52:18 GMT""}]","2007-05-23"
+"physics/0504015","Christian Schill Dr.","C. Schill","Measurement of the cell membrane capacitance and conductance of colonic
+  crypt cells of the rat using the patch clamp technique","Diploma thesis, University of Freiburg, Germany (in German)",,,,"physics.bio-ph q-bio.CB",,"  Using the patch clamp technique the membrane capacitance and membrane
+conductance of colonic crypt cells of the rat was measured. The influence of
+the intracellular agonists Ca++, cAMP and of osmotic changes on the membrane
+capacitance and conductance was studied.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 16:46:17 GMT""}]","2007-05-23"
+"physics/0504016","Alberto G. Rojo","Alberto G. Rojo","Hamilton's principle: why is the integrated difference of kinetic and
+  potential energy minimized?","7 pages, 4 figures. Submitted to the American Journal of Physics",,"10.1119/1.1930887",,"physics.ed-ph physics.gen-ph",,"  I present an intuitive answer to an often asked question: why is the
+integrated difference K-U between the kinetic and potential energy the quantity
+to be minimized in Hamilton's principle?
+  Using elementary arguments, I map the problem of finding the path of a moving
+particle connecting two points to that of finding the minimum potential energy
+of a static string. The mapping implies that the configuration of a
+non--stretchable string of variable tension corresponds to the spatial path
+dictated by the Principle of Least Action; that of a stretchable string in
+space-time is the one dictated by Hamilton's principle. This correspondence
+provides the answer to the question above: while a downward force curves the
+trajectory of a particle in the (x,t) plane downward, an upward force of the
+same magnitude stretches the string to the same configuration x(t).
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 19:31:01 GMT""}]","2016-09-08"
+"physics/0504017","Santo Fortunato Dr","Santo Fortunato, Vito Latora, Alessandro Pluchino, Andrea Rapisarda","Vector Opinion Dynamics in a Bounded Confidence Consensus Model","18 pages, (too) many figures. To appear on International Journal of
+  Modern Physics C","Int. Jour. Mod. Phys. C 16 (2005) 1535","10.1142/S0129183105008126",,"physics.soc-ph",,"  We study the continuum opinion dynamics of the compromise model of Krause and
+Hegselmann for a community of mutually interacting agents, by solving
+numerically a rate equation. The opinions are here represented by bidimensional
+vectors with real-valued components. We study the situation starting from a
+uniform probability distribution for the opinion configuration and for
+different shapes of the confidence range. In all cases, we find that the
+thresholds for consensus and cluster merging either coincide with their
+one-dimensional counterparts, or are very close to them. The symmetry of the
+final opinion configuration, when more clusters survive, is determined by the
+shape of the opinion space. If the latter is a square, which is the case we
+consider, the clusters in general occupy the sites of a square lattice,
+although we sometimes observe interesting deviations from this general pattern,
+especially near the center of the opinion space.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 21:34:03 GMT""}]","2009-11-11"
+"physics/0504018","Angelo Loinger","A. Loinger (Dipartimento di Fisica, Universita' di Milano, Italy)","On Friedmann's universes","4 pages, LaTeX, to be published on Spacetime & Substance",,,,"physics.gen-ph",,"  There is a perfect concordance between Friedmann's cosmological models and
+the correspondent (purely gravitational interactions and negligible pressure)
+Newtonian models. This renders quite intuitive the fact that in general
+relativity no motion of bodies generates gravitational waves.
+","[{""version"":""v1"",""created"":""Sun, 3 Apr 2005 09:38:15 GMT""}]","2007-05-23"
+"q-bio/0504003","Ping Ao","P. Ao","Metabolic Network Modelling: Including Stochastic Effects","7 pages, latex",,,,"q-bio.MN q-bio.SC",,"  We propose to model the dynamics of metabolic networks from a systems biology
+point of view by four dynamical structure elements: potential function,
+transverse matrix, degradation matrix, and stochastic force. These four
+elements are balanced to determine the network dynamics, which gives arise to a
+special stochastic differential equation supplemented by a relationship between
+the stochastic force and the degradation matrix. Important network behaviors
+can be obtained from the potential function without explicitly solving for the
+time-dependent solution. The existence of such a potential function suggests a
+global optimization principle, and the existence stochastic force corresponds
+natural to the hierarchical structure in metabolic networks. We provide
+theoretical evidences to justify our proposal by discussing its connections to
+others large-scale biochemical systems approaches, such as the network
+thermodynamics theory, biochemical systems theory, metabolic control analysis,
+and flux balance analysis. Experimental data displaying stochasticity are also
+pointed out.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 23:09:51 GMT""}]","2007-05-23"
+"quant-ph/0504011","Antony Valentini","Antony Valentini","Hidden Variables and the Large-Scale Structure of Spacetime","30 pages. Minor changes. To be published in: ""Absolute Simultaneity"",
+  eds. W. L. Craig and Q. Smith (Routledge, London, 2005)","""Einstein, Relativity and Absolute Simultaneity"", eds. W. L. Craig
+  and Q. Smith (Routledge, London, 2008), pp. 125--155",,,"quant-ph gr-qc hep-th",,"  We discuss how to embed quantum nonlocality in an approximately classical
+spacetime background, a question which must be answered irrespective of any
+underlying microscopic theory of spacetime. We argue that, in deterministic
+hidden-variables theories, the choice of spacetime kinematics should be
+dictated by the properties of generic non-equilibrium states, which allow
+nonlocal signalling. Such signalling provides an operational definition of
+absolute simultaneity, which may naturally be associated with a preferred
+foliation of classical spacetime. The argument applies to any deterministic
+hidden-variables theory, and to both flat and curved spacetime backgrounds. We
+include some critical discussion of Einstein's 1905 'operational' approach to
+relativity, and compare it with that of Poincare.
+","[{""version"":""v1"",""created"":""Sat, 2 Apr 2005 16:52:39 GMT""},{""version"":""v2"",""created"":""Sat, 15 Oct 2005 22:33:27 GMT""}]","2009-01-01"
